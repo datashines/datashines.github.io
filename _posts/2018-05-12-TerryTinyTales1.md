@@ -17,12 +17,12 @@ title: When Loktantra called Rajneeti
 * Rajneeti : sir hum toh rules follow kar rahe hain. Haan agar aap 420 wala recharge abhi ke abhi karaaein toh guaranteed call * ho paaega. 
 
 ### Transcript (English):
-> Loktantra calls customer care
+> Democracy calls customer care
 
-* Rajneeti : How may I help you ?
-* Loktantra : Hi, I recently got my account recharged but can't make a call
-* Rajneeti : Let me check sir... _<after 5 hours>_ ... sir actually you might have recharged another account, perhaps by mistake
-* Loktantra : Nope, I am damn sure, it was this account.
-* Rajneeti : Then, please go and file a complaint with the consumer court.
-* Loktantra : Hey, I have bought your product, and you ain't helping me, that's not fair !
-* Rajneeti : Sir, we are just following the rules. Okay, if you recharge now for 420, you will get you services back immediately ;)
+* Politics : How may I help you ?
+* Democracy : Hi, I recently got my account recharged but can't make a call
+* Politics : Let me check sir... _<after 5 hours>_ ... sir actually you might have recharged another account, perhaps by mistake
+* Democracy : Nope, I am damn sure, it was this account.
+* Politics : Then, please go and file a complaint with the consumer court.
+* Democracy : Hey, I have bought your product, and you ain't helping me, that's not fair !
+* Politics : Sir, we are just following the rules. Okay, if you recharge now for 420, you will get you services back immediately ;)
