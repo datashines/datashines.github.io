@@ -6,7 +6,7 @@ title: When Loktantra called Rajneeti
 ![]({{ site.baseurl }}/data/2018-05-12-TerryTinyTales1/loktantra-rajneeti.png)
 
 ### Transcript (Hinglish):
->> Loktantra ne customer care ko phone lagaya
+> Loktantra ne customer care ko phone lagaya
 
 * **Rajneeti** : How may I help you ?
 * **Loktantra** : Ji maine haal hi mein recharge karaya par call nhi ho raha
@@ -17,7 +17,7 @@ title: When Loktantra called Rajneeti
 * **Rajneeti** : sir hum toh rules follow kar rahe hain. Haan agar aap 420 wala recharge abhi ke abhi karaaein toh guaranteed call * ho paaega. 
 
 ### Transcript (English):
->> Democracy calls customer care
+> Democracy calls customer care
 
 * **Politics** : How may I help you ?
 * **Democracy** : Hi, I recently got my account recharged but can't make a call
