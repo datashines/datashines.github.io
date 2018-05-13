@@ -35,7 +35,19 @@ In case you were wondering, Fully-Connected Nets would suffer from the same feat
 
 
 ## Dataset
-[UrbanSounds8K](https://serv.cusp.nyu.edu/projects/urbansounddataset/urbansound8k.html) dataset is a monophonic sounds dataset i.e. each audio clip consists just one audio event (labelled).
+[UrbanSounds8K](https://serv.cusp.nyu.edu/projects/urbansounddataset/urbansound8k.html) dataset is a monophonic sounds dataset i.e. each audio clip consists just one audio event (labelled). This dataset was used for the audio events detection task, providing with 8732 data samples and consisting of 10 output classes (audio events). Those are:  
+
+* Air Conditioner Sound
+* Car Horn
+* Children Playing
+* Dog Bark
+* Drilling
+* Engine Idling
+* Gun Shot
+* Jackhammer
+* Siren
+* Street Music  
+
 
 ## Feature Engineering
 > Mel Frequency Cepstrum Coefficients (MFCCs) are renowned features for audio-related tasks.    
