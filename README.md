@@ -1,6 +1,6 @@
 # Data Shines 
 
-**Data Shines** is a personal endeavor of a data scientist to share soem basic to advanced insights on varous aspects of the data science / machine learning / artificial intelligence / python community.
+**Data Shines** is a personal endeavor of a data scientist to share basic to advanced insights on various aspects of data science / machine learning / artificial intelligence / python.
 
 ## Credits
 
