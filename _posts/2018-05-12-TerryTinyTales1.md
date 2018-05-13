@@ -3,7 +3,7 @@ layout: post
 title: When Loktantra called Rajneeti
 ---
 
-![]({{ site.baseurl }}/images/config.png)
+![]({{ site.baseurl }}/data/2018-05-12-TerryTinyTales1/loktantra-rajneeti.png)
 
 ### Transcript (Hinglish):
 > Loktantra ne customer care ko phone lagaya
