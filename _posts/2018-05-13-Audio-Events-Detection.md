@@ -4,7 +4,7 @@ title: Using Neural Nets for Audio Events Detection
 ---
 
 Audio events detection as the name suggests is the task of detecting 1 or more audio events in an audio clip of a 
-certain duration. In this post, we limit our discussion to 1 audio event in an audio clip of a fixed duation of 5 seconds.  
+certain duration. In this post, we limit our discussion to 1 audio event in an audio clip of a fixed duation of 4 seconds.  
 
 [ This ]({{ site.baseurl }}/data/2018-05-13-Audio-Events-Detection/traffic_sample_1.wav) is for exmaple an audio clip with the audio event _traffic_  
 
