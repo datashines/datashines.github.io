@@ -6,7 +6,7 @@
 name: DataShines
 
 # Short bio or description (displayed in the header)
-description: Where Data Science Shines :zap:
+description: Where Data Science Shines
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
@@ -73,7 +73,6 @@ sass:
 gems:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
-  - jemoji
 
 # Exclude these files from your production _site
 exclude:
