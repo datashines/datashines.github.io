@@ -4,12 +4,15 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+DataShines is my personal endeavor to describe, discuss, and uncover some basic to possibly advanced data-science personal projects, concepts, news.
 
-### More Information
+### About me
 
-A place to include any other types of information that you'd like to include about yourself.
+I am Ashish Jha, Senior Data Scientist at Sentiance. ELectrical Engineering Graduate from IITR, Computer Science Post-Graduate from EPFL, working in data-science/machine-learning for the last 4 years. Super-excited and slightly-skeptic at the same time about the machine learning progress, especially deep learning. I care especially about the end-user impact of ML/AI (interpretability, explicability) as well as standardization of machine learning engineering procedures.
 
-### Contact me
 
-[arj7192@gmail.com](mailto:arj7192@gmail.com)
+### Get in touch !
+
+[email](mailto:arj7192@gmail.com)
+[linkedin](https://www.linkedin.com/in/ashishrj)
+[github](https://github.com/arj7192)
