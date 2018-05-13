@@ -69,4 +69,4 @@ In case you were wondering, Fully-Connected Nets would suffer from the same feat
 ![]({{ site.baseurl }}/data/2018-05-13-Audio-Events-Detection/results.png)
 
 ## Conclusion
-CNNs are not so impactful for so reason. For this particular task, we saw NNs especially CNNs outperforming classical ML model(s). This, by the way, was also a part of my Masters Thesis ;) 
+CNNs are not so impactful for so reason. For this particular task, we saw NNs especially CNNs outperforming classical ML model(s). This project was a part of my Masters Thesis :)
