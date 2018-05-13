@@ -13,6 +13,6 @@ I am Ashish Jha, Senior Data Scientist at Sentiance. ELectrical Engineering Grad
 
 ### Get in touch !
 
-[email](mailto:arj7192@gmail.com)
-[linkedin](https://www.linkedin.com/in/ashishrj)
+[email](mailto:arj7192@gmail.com)  
+[linkedin](https://www.linkedin.com/in/ashishrj)  
 [github](https://github.com/arj7192)
