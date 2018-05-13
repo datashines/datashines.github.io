@@ -25,4 +25,4 @@ title: When Loktantra called Rajneeti
 * **Democracy** : Nope, I am damn sure, it was this account.
 * **Politics** : Then, please go and file a complaint with the consumer court.
 * **Democracy** : Hey, I have bought your product, and you ain't helping me, that's not fair !
-* **Politics** : Sir, we are just following the rules. Okay, if you recharge now for 420, you will get you services back immediately ;)
+* **Politics** : Sir, we are just following the rules. But okay, if you recharge now for 420, you will get you services back immediately ;)
