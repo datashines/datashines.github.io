@@ -24,7 +24,7 @@ certain duration. In this post, we limit our discussion to 1 audio event in an a
 
 > That's where 1-D Convolutional Neural Networks could be a game changer :   
 
-![]({{ site.baseurl }}/data/2018-05-13-Audio-Events-Detection/CNN-better.png)
+![]({{ site.baseurl }}/data/2018-05-13-Audio-Events-Detection/CNN-approach.png)
 
 > 1-D kernels could bring out the most important frames that would survive the max-pool reduction layer :  
 
