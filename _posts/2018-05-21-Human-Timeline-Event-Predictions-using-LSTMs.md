@@ -10,11 +10,11 @@ mapping and more.
 ### Detection vs Prediction
 
 The obvious next step was to go from simply detecting what you are doing, to predicting what you will be doing in the future. 
-Knowing our near-term future allows us to explain the _intent_ of our current situation. For example, if one is _detected_ to be
-currently at home, and is _predicted_ to be at work by car, then we can immediately explain the _intent_ behind that car transport; 
+Knowing our near-term future allows us to explain the _intent_ of our current situation. For example, if one is *detected* to be
+currently at home, and is *predicted* to be at work by car, then we can immediately explain the _intent_ behind that car transport; 
 its not just a general transport but a home-to-work commute.
 
-### Deep learning to the rescue
+### Deep learning, here we come
 
 Having an order-1 markov chain based approach as the baseline, we turned to deep learning. We trained a Long Short-Term Memory 
 (LSTM) recurrent neural network on several thousands of event timelines. The network learns to encode general human behavior 
@@ -37,7 +37,7 @@ which the Probabilistic model couldn't.
 constraints, we could not use tensorflow serving module for model serving, but instead open a tf.session() python-thread for 
 inference.
 
-Check out the [Sentiance technical blog post](http://www.sentiance.com/2017/04/25/predictive-analytics-applying-deep-learning
+Check out the [full technical blog post](http://www.sentiance.com/2017/04/25/predictive-analytics-applying-deep-learning
 -on-mobile-sensor-data/) that outlines the details on how we trained and tested our models, and how it actually works. Below 
 is a glimpse of how our results look on a real timeline:
 
