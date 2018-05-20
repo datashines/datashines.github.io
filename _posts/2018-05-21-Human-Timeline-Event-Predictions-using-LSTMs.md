@@ -3,11 +3,12 @@ layout: post
 title: Deep learning for long-term predictions
 ---
 
-## Detection vs Prediction
-
 Sentiance uses machine learning to extract intelligence from smartphone sensor data such as accelerometer, gyroscope and 
 location. This intelligence comes in the forms of sensor based activity detection, map matching, driving behavior, venue 
 mapping and more.
+
+## Detection vs Prediction
+
 The obvious next step was to go from simply detecting what you are doing, to predicting what you will be doing in the future. 
 Knowing our near-term future allows us to explain the _intent_ of our current situation. For example, if one is _detected_ to be
 currently at home, and is _predicted_ to be at work by car, then we can immediately explain the _intent_ behind that car transport; 
