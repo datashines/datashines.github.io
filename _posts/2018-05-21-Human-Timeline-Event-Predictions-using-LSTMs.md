@@ -39,6 +39,6 @@ inference.
 
 Check out the [full technical blog post](http://www.sentiance.com/2017/04/25/predictive-analytics-applying-deep-learning
 -on-mobile-sensor-data/) that outlines the details on how we trained and tested our models, and how it actually works. Below 
-is a glimpse of how our results look on a real timeline:
+is a glimpse of how the model performs on a real timeline:
 
 [![youtube_video](https://img.youtube.com/vi/ayPvFtAIOjI/0.jpg)](https://www.youtube.com/watch?v=ayPvFtAIOjI)
