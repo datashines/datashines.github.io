@@ -34,7 +34,7 @@ think of.
 3. Deep learning in this case actually solves the problem of dynamically adapting to the changes in the timing of events,
 which the Probabilistic model couldn't.
 4. The deep learning model actually runs in production now for all of Sentiance's users. Due to some of our platform
-constraints, we could not use tensorflow serving module for model serving, but instead open a tf.session() python-thread for 
+constraints, we could not use tensorflow serving module for model serving, but instead run a tf.session() python-thread for 
 inference.
 
 Check out the [full technical blog post](http://www.sentiance.com/2017/04/25/predictive-analytics-applying-deep-learning
