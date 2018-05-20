@@ -7,14 +7,14 @@ Sentiance uses machine learning to extract intelligence from smartphone sensor d
 location. This intelligence comes in the forms of sensor based activity detection, map matching, driving behavior, venue 
 mapping and more.
 
-## Detection vs Prediction
+### Detection vs Prediction
 
 The obvious next step was to go from simply detecting what you are doing, to predicting what you will be doing in the future. 
 Knowing our near-term future allows us to explain the _intent_ of our current situation. For example, if one is _detected_ to be
 currently at home, and is _predicted_ to be at work by car, then we can immediately explain the _intent_ behind that car transport; 
 its not just a general transport but a home-to-work commute.
 
-## Deep learning to the rescue
+### Deep learning to the rescue
 
 Having an order-1 markov chain based approach as the baseline, we turned to deep learning. We trained a Long Short-Term Memory 
 (LSTM) recurrent neural network on several thousands of event timelines. The network learns to encode general human behavior 
@@ -26,7 +26,7 @@ deep learning pipeline:
 The input is a sequence of a timeline's last 128 events, while the output is a prediction of the next event, together with a 
 duration estimate of the current event. The network is implemented using TensorFlow on Python.
 
-## Key points
+### Key notes
 
 1. The network is often able to predict periodic and systematic events that a human observer could forget or would not even 
 think of. 
