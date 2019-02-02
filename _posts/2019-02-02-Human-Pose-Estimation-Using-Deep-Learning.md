@@ -144,6 +144,6 @@ Here goes: (recommended to watch @ 2x)
 
 ## Acknowledgements
 
-Heartfelt thanks to EPFL, Prof. Pascal Fua for the opportunity to work on this project.
-Big thank you to Bugra Tekin for the amazing supervision, as well as Arun Ramakrishnan
+Heartfelt thanks to [EPFL](https://www.epfl.ch/en/home/), [Prof. Pascal Fua](https://people.epfl.ch/pascal.fua/bio?lang=en) for the opportunity to work on this project.
+Big thank you to [Bugra Tekin](https://www.linkedin.com/in/bugratekin/) for the amazing supervision, as well as [Arun Ramakrishnan](https://www.linkedin.com/in/arunbalajeev/)
 for collaborating on this one !
