@@ -36,11 +36,8 @@ need to perform operations like
  before actually feeding them as inputs to the deep networks. Here is a sample image 
  before and after our preprocessing steps: 
  
- ![Before]({{ site.baseurl }}/data/2019-02-02-Human-Pose-Estimation-Using-Deep-Learning/raw-image.png)
- 
  <img src="/data/2019-02-02-Human-Pose-Estimation-Using-Deep-Learning/raw-image.png" alt="drawing" width="200"/>
- 
- ![After]({{ site.baseurl }}/data/2019-02-02-Human-Pose-Estimation-Using-Deep-Learning/processed-image.png)
+ <img src="/data/2019-02-02-Human-Pose-Estimation-Using-Deep-Learning/processed-image.png" alt="drawing" width="200"/>
 
 
  Similarly, the pose data is processed equivalently to match the modified images. For each
