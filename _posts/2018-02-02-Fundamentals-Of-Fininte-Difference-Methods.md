@@ -4,7 +4,7 @@ title: Fundamentals of Finite Difference Methods
 ---
 
 
-I had the opportunity to present on this topic at the 11th Indo German Winter Academy, 2010. 
+I had the opportunity to present on this topic at the 10th Indo German Winter Academy, 2011. 
 Discrete mathematics has been one of my favorite areas of study in Mathematics. I was glad 
 to be able to apply what I learned here later while studying Computer Graphics at 
 [EPFL](https://www.epfl.ch/en/home/). 
