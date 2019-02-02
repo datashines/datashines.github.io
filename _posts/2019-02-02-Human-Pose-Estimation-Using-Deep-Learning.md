@@ -124,7 +124,7 @@ pose joints:
 
 Additionally, to come back to the original data format which was videos basically,
 we reconstructed how real-time pose estimation for a walking person would look like.
-Here goes:
+Here goes: (recommended to watch @ 2x)
 
 --
 
