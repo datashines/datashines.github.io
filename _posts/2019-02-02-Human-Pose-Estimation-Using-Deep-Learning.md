@@ -111,6 +111,7 @@ regression tasks:
 Fine details of model and dataset can be found in the 
 [original article]({{ site.baseurl }}/data/2019-02-02-Human-Pose-Estimation-Using-Deep-Learning/paper.pdf)
 
+And, the model training script, [here]({{ site.baseurl }}/data/2019-02-02-Human-Pose-Estimation-Using-Deep-Learning/trainCNN.py).
 
 ## Sample Results
 
