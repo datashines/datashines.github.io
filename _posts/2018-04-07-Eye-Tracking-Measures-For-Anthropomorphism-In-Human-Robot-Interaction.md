@@ -55,7 +55,7 @@ You can also read the
 
 ### Acknowledgements
 
-I am grateful to [Dr, Pierre Dillenbourg](https://people.epfl.ch//pierre.dillenbourg?lang=en) 
+I am grateful to [Dr. Pierre Dillenbourg](https://people.epfl.ch//pierre.dillenbourg?lang=en) 
 who heads the [CHILI lab](https://chili.epfl.ch/) at [EPFL](https://www.epfl.ch/),
  and special thanks
-to my mentor Dr. [Kshitij Sharma](https://www.linkedin.com/in/kshitij-sharma-6973006a/).
+to my mentor [Dr. Kshitij Sharma](https://www.linkedin.com/in/kshitij-sharma-6973006a/).
