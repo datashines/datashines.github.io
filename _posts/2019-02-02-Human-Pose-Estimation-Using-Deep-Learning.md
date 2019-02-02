@@ -36,9 +36,9 @@ need to perform operations like
  before actually feeding them as inputs to the deep networks. Here is a sample image 
  before and after our preprocessing steps: 
 
- <img src="/data/2019-02-02-Human-Pose-Estimation-Using-Deep-Learning/raw-image.png" alt="drawing" width="200"/ title="Before">
+ <img src="/data/2019-02-02-Human-Pose-Estimation-Using-Deep-Learning/raw-image.png" alt="drawing" width="200" title="Before">
 
- <img src="/data/2019-02-02-Human-Pose-Estimation-Using-Deep-Learning/processed-image.png" alt="drawing" width="200"/ title="After">
+ <img src="/data/2019-02-02-Human-Pose-Estimation-Using-Deep-Learning/processed-image.png" alt="drawing" width="200" title="After">
 
 
  Similarly, the pose data is processed equivalently to match the modified images. For each
@@ -48,7 +48,7 @@ need to perform operations like
  vectors (17 x 3, 1 number for each of x, y and z- axis). Here is how the 17 body-joints
  look like for the same image shown above:
  
-  <img src="/data/2019-02-02-Human-Pose-Estimation-Using-Deep-Learning/pose.png" alt="drawing" width="200"/ title="Pose Joints">
+  <img src="/data/2019-02-02-Human-Pose-Estimation-Using-Deep-Learning/pose.png" alt="drawing" width="200" title="Pose Joints">
     
  Overall, we use approximately 
  **0.15 million images** as input for training and **0.01 million images** for testing 
