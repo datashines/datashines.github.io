@@ -7,7 +7,7 @@ This was my first ever deep learning project and so I am happy to share what I d
 with some key insights. This is from 2014/15, when tensorflow didn't even exist. 
 Theano did, though. 
 
-### Introduction
+## Introduction
 
 On a high level, human pose estimation from images of humans posing is the task of 
 extracting features from the 2D images and then learn a mapping from the feature space 
@@ -15,7 +15,7 @@ to the 3D pose space. This post discusses how we use a deep convolutional neural
 pre-trained on a related task as our machine learning model to obtain better than 
 state-of-the-art results.
 
-### A word on dataset
+## A word on dataset
 
 []Human36M](http://vision.imar.ro/human3.6m/description.php) is a well known human pose
 dataset that we have used in this work. It provides 3.6 milion video frames with labeled 
@@ -36,10 +36,11 @@ need to perform operations like
  before actually feeding them as inputs to the deep networks. Here is a sample image 
  before and after our preprocessing steps: 
  
- ![Before]({{ site.baseurl }}/data/2019-02-02-Human-Pose-Estimation-Using-Deep-Learning/raw-image.png =1x)
+ ![Before]({{ site.baseurl }}/data/2019-02-02-Human-Pose-Estimation-Using-Deep-Learning/raw-image.png)
  
+ <img src="/data/2019-02-02-Human-Pose-Estimation-Using-Deep-Learning/raw-image.png" alt="drawing" width="200"/>
  
- ![After]({{ site.baseurl }}/data/2019-02-02-Human-Pose-Estimation-Using-Deep-Learning/processed-image.png =1x)
+ ![After]({{ site.baseurl }}/data/2019-02-02-Human-Pose-Estimation-Using-Deep-Learning/processed-image.png)
 
 
  Similarly, the pose data is processed equivalently to match the modified images. For each
@@ -55,7 +56,7 @@ need to perform operations like
  **0.15 million images** as input for training and **0.01 million images** for testing 
  our results.
 
-### Pre-training on a related task
+## Pre-training on a related task
 
 We first trained a deep CNN on this pose regression task with the images as input and pose
 points as output. There were two major shortcomings:
@@ -85,7 +86,7 @@ we overlaid a 10X10 on top of it. And then we ask the classifier, for each of th
 The target for this classification task is then, basically, a 1700 X 1 vector. 
 
 
-### Model architecture and training
+## Model architecture and training
 
 We first train the classification model on cross-entropy loss function, save the 
 weights of the model, replace the last classification layer with the regression layer, 
@@ -113,7 +114,7 @@ Fine details of model and dataset can be found in the
 [original article]({{ site.baseurl }}/data/2019-02-02-Human-Pose-Estimation-Using-Deep-Learning/paper.pdf)
 
 
-### Sample Results
+## Sample Results
 
 To give an idea of how the model performed in estimating the pose points for a given
 test image, below are 4 randomly chosen test samples, with their actual and estimate
@@ -125,6 +126,7 @@ pose joints:
 Additionally, to come back to the original data format which was videos basically,
 we reconstructed how real-time pose estimation for a walking person would look like.
 Here goes: (recommended to watch @ 2x)
+
 
 -----
 
@@ -142,7 +144,7 @@ Test Set Results
 ------
  
 
-### Acknowledgements
+## Acknowledgements
 
 Heartfelt thanks to EPFL, Prof. Pascal Fua for the opportunity to work on this project.
 Big thank you to Bugra Tekin for the amazing supervision, as well as Arun Ramakrishnan
