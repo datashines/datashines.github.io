@@ -3,7 +3,6 @@ layout: post
 title: Fundamentals of Finite Difference Methods
 ---
 
-### Introduction
 
 I had the opportunity to present on this topic at the 11th Indo German Winter Academy, 2010. 
 Discrete mathematics has been one of my favorite areas of study in Mathematics. I was glad 
