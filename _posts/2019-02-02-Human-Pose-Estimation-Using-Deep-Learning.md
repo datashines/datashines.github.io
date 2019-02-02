@@ -126,20 +126,20 @@ Additionally, to come back to the original data format which was videos basicall
 we reconstructed how real-time pose estimation for a walking person would look like.
 Here goes: (recommended to watch @ 2x)
 
---
+-----
 
 Validation Set Results
 
 
 [![youtube_video](https://img.youtube.com/vi/9H9N0Xu3AtQ/0.jpg)](https://youtu.be/9H9N0Xu3AtQ)
 
---
+-----
 Test Set Results
 
 
 [![youtube_video](https://img.youtube.com/vi/tNw5gCw9ygs/0.jpg)](https://youtu.be/tNw5gCw9ygs)
 
---
+------
  
 
 ### Acknowledgements
