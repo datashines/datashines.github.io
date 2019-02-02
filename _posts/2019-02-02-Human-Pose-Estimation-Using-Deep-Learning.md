@@ -46,9 +46,9 @@ need to perform operations like
  is basically the 32 body joints, out of which we use only 17 main joints, leaving aside 
  unimportant joints like fingers, toes, etc. Hence out target pose vectors are 51-sized 
  vectors (17 x 3, 1 number for each of x, y and z- axis). Here is how the 17 body-joints
- look like for the same image shown above
+ look like for the same image shown above:
  
- ![Pose]({{ site.baseurl }}/data/2019-02-02-Human-Pose-Estimation-Using-Deep-Learning/pose.png)
+  <img src="/data/2019-02-02-Human-Pose-Estimation-Using-Deep-Learning/pose.png" alt="drawing" width="200"/ title="Pose Joints">
     
  Overall, we use approximately 
  **0.15 million images** as input for training and **0.01 million images** for testing 
