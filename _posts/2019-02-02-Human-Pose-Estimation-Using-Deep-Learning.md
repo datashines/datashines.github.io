@@ -17,7 +17,7 @@ state-of-the-art results.
 
 ## A word on dataset
 
-[]Human36M](http://vision.imar.ro/human3.6m/description.php) is a well known human pose
+[Human36M](http://vision.imar.ro/human3.6m/description.php) is a well known human pose
 dataset that we have used in this work. It provides 3.6 milion video frames with labeled 
 poses of 11 human subjects, performing 17 tasks/scenarios, recorded from 4 camera angles. 
 This huge size of data makes it possible for deep networks to train effectively. In our 
@@ -132,13 +132,13 @@ Here goes: (recommended to watch @ 2x)
 
 -----
 
-Validation Set Results
+**Validation Set Results**
 
 
 [![youtube_video](https://img.youtube.com/vi/9H9N0Xu3AtQ/0.jpg)](https://youtu.be/9H9N0Xu3AtQ)
 
 -----
-Test Set Results
+**Test Set Results**
 
 
 [![youtube_video](https://img.youtube.com/vi/tNw5gCw9ygs/0.jpg)](https://youtu.be/tNw5gCw9ygs)
