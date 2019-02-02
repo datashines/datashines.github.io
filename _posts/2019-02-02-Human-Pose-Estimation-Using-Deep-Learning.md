@@ -36,10 +36,10 @@ need to perform operations like
  before actually feeding them as inputs to the deep networks. Here is a sample image 
  before and after our preprocessing steps: 
  
- ![Before]({{ site.baseurl }}/data/2019-02-02-Human-Pose-Estimation-Using-Deep-Learning/raw-image.png)
+ ![Before]({{ site.baseurl }}/data/2019-02-02-Human-Pose-Estimation-Using-Deep-Learning/raw-image.png =1x)
  
  
- ![After]({{ site.baseurl }}/data/2019-02-02-Human-Pose-Estimation-Using-Deep-Learning/processed-image.png)
+ ![After]({{ site.baseurl }}/data/2019-02-02-Human-Pose-Estimation-Using-Deep-Learning/processed-image.png =1x)
 
 
  Similarly, the pose data is processed equivalently to match the modified images. For each
@@ -126,14 +126,20 @@ Additionally, to come back to the original data format which was videos basicall
 we reconstructed how real-time pose estimation for a walking person would look like.
 Here goes:
 
+--
+
 Validation Set Results
+
+
 [![youtube_video](https://img.youtube.com/vi/9H9N0Xu3AtQ/0.jpg)](https://youtu.be/9H9N0Xu3AtQ)
 
-
+--
 Test Set Results
+
+
 [![youtube_video](https://img.youtube.com/vi/tNw5gCw9ygs/0.jpg)](https://youtu.be/tNw5gCw9ygs)
 
-
+--
  
 
 ### Acknowledgements
@@ -141,9 +147,3 @@ Test Set Results
 Heartfelt thanks to EPFL, Prof. Pascal Fua for the opportunity to work on this project.
 Big thank you to Bugra Tekin for the amazing supervision, as well as Arun Ramakrishnan
 for collaborating on this one !
-
-Check out the [full technical blog post](http://www.sentiance.com/2017/04/25/predictive-analytics-applying-deep-learning
--on-mobile-sensor-data/) that outlines the details on how we trained and tested our models, and how it actually works. Below 
-is a glimpse of how the model performs on a real timeline:
-
-[![youtube_video](https://img.youtube.com/vi/ayPvFtAIOjI/0.jpg)](https://www.youtube.com/watch?v=ayPvFtAIOjI)
