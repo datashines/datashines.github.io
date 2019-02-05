@@ -17,8 +17,8 @@ Here is the full presentation discussing my approach and throwing some light on 
 of the code that was modified:
 
 
-<iframe src="https://www.slideshare.net/1rj/slideshelf" width="760px" height="570px" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:none;" allowfullscreen webkitallowfullscreen mozallowfullscreen></iframe>
- 
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/4eQnaueyott3mJ" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/1rj/analysis-and-subsequent-optimization-of-a-microcontroller-program" title="Analysis and subsequent optimization of a microcontroller program" target="_blank">Analysis and subsequent optimization of a microcontroller program</a> </strong> from <strong><a href="https://www.slideshare.net/1rj" target="_blank">1rj</a></strong> </div>
+
 
 
 ### Acknowledgements
