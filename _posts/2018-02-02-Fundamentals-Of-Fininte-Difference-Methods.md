@@ -16,8 +16,8 @@ Here is the full presentation discussing FDMs and discussing their consistency, 
 and convergence:
 
 
-<iframe src="https://www.slideshare.net/1rj/slideshelf" width="760px" height="570px" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:none;" allowfullscreen webkitallowfullscreen mozallowfullscreen></iframe>
- 
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/iAiehKSpB4iQft" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/1rj/fundamentals-of-finite-difference-methods" title="Fundamentals of Finite Difference Methods" target="_blank">Fundamentals of Finite Difference Methods</a> </strong> from <strong><a href="https://www.slideshare.net/1rj" target="_blank">1rj</a></strong> </div>
+
 
 
 ### Acknowledgements
