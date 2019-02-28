@@ -66,5 +66,5 @@ for example:
 
 Sincere thanks to the [authors of the reference paper](https://arxiv.org/pdf/1605.05396.pdf), 
 [author of the reference repo](), and
-[Faisal Mehfooz](https://www.linkedin.com/in/faisalmehfooz/)for helping with demo web api
+[Faisal Mehfooz](https://www.linkedin.com/in/faisalmehfooz/) for helping with demo web api
 for this project
