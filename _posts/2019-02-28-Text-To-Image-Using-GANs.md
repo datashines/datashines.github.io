@@ -30,8 +30,8 @@ As for the textual part of the data, according to our reference paper:
 <code>
 For text features, we first pre-train a deep convolutionalrecurrent text encoder on 
 structured joint embedding of
-text captions with 1,024-dimensional [GoogLeNet image
-embedings](https://arxiv.org/pdf/1409.4842.pdf)
+text captions with 1,024-dimensional GoogLeNet image
+embedings
 </code>
 We used 5 captions per image while training.
 
@@ -60,7 +60,7 @@ for example:
 
 ## Demo
 
-***to be continued***
+***to be added***
 
 ## Acknowledgements
 
