@@ -4,7 +4,7 @@ title: Text To Image Generation Using Generative Adversarial Networks
 ---
 
 Generative Adversarial Networks (GANs) are a popular variant of the generative class of 
-netowrk models. The fundamental principle behind a GAN model is a discriminator and a 
+neural network models. The fundamental principle behind a GAN model is a discriminator and a 
 generator model working against each other (roughly speaking) thereby achieving the 
 ultimate goal of fine-tuning the generator to facilitate generating meaningful,
 non-random data. 
