@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Text To Image Generation Using GANs
+title: Text To Image Generation Using Generative Adversarial Networks
 ---
 
 Generative Adversarial Networks (GANs) are a popular variant of the generative class of 
