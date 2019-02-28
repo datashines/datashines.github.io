@@ -25,6 +25,8 @@ for this task. This dataset consists of 8189 images of flowers from 102 differen
 categories. 
 
 As for the textual part of the data, according to our reference paper:
+
+
 <code>
 For text features, we first pre-train a deep convolutionalrecurrent text encoder on 
 structured joint embedding of
@@ -58,7 +60,7 @@ for example:
 
 ## Demo
 
-<to be continued>
+***to be continued***
 
 ## Acknowledgements
 
