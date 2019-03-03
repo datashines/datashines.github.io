@@ -70,14 +70,12 @@ for example:
     </textarea>
     <input type="button" id="btn" value="GO" />
 </form>
- <p id='image'> </p>
+ <img id='image'>
     <script type="text/javascript">
         document.getElementById('btn').onclick = function() {
             var val = document.getElementById('imagename').value,
                 src = 'http://13.59.20.142:8888/text/' + val,
-                img = document.createElement('img');
-            img.src = src;
-            document.getElementById('image').appendChild(img);
+                document.getElementById('image').src=src;
         }
     </script>
     
