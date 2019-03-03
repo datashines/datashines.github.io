@@ -70,12 +70,12 @@ for example:
     </textarea>
     <input type="button" id="btn" value="GO" />
 </form>
- <img class='image', src='', alt='flower_image'>
+ <img class='image', src='./data/2019-02-28-Text-To-Image-Using-GANs/flower_image.png', alt='flower_image'>
     <script type="text/javascript">
         document.getElementById('btn').onclick = function() {
             var val = document.getElementById('imagename').value,
                 src = 'http://13.59.20.142:8888/text/' + val,
-     image = document.getElementByClassName('image')[0];
+     image = document.getElementsByClassName('image')[0];
      image.src=src;
         }
     </script>
