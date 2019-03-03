@@ -74,9 +74,10 @@ for example:
                 img = document.createElement('img');
 
             img.src = src;
-            document.body.appendChild(img);
+            document.getElementById('btn').appendChild(img);
         }
     </script>
+    
 </body>
 </html>
 
