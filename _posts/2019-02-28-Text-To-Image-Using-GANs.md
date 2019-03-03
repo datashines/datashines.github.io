@@ -64,7 +64,10 @@ for example:
 <html>
 <body>
 <form>
-    <input type="textarea" id="imagename" value="pink flower with yellow petals" />
+    <textarea id="imagename" name="imagename"
+          rows="5" cols="33">
+     pink flower with yellow petals
+    </textarea>
     <input type="button" id="btn" value="GO" />
 </form>
     <script type="text/javascript">
@@ -72,7 +75,6 @@ for example:
             var val = document.getElementById('imagename').value,
                 src = 'http://13.59.20.142:8888/text/' + val,
                 img = document.createElement('img');
-
             img.src = src;
             document.body.appendChild(img);
         }
