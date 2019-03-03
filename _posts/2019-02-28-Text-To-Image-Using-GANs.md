@@ -74,7 +74,7 @@ for example:
                 img = document.createElement('img');
 
             img.src = src;
-            document.getElementById('btn').appendChild(img);
+            document.body.form.appendChild(img);
         }
     </script>
     
