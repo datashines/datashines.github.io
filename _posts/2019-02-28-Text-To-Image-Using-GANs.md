@@ -58,9 +58,28 @@ for example:
 
 [![youtube_video](https://img.youtube.com/vi/aHDQc7wm_UI/0.jpg)](https://youtu.be/aHDQc7wm_UI)
 
+
 ## Demo
 
-***to be added***
+<html>
+<body>
+<form>
+    <input type="text" id="imagename" value="pink flower with yellow petals" />
+    <input type="button" id="btn" value="GO" />
+</form>
+    <script type="text/javascript">
+        document.getElementById('btn').onclick = function() {
+            var val = document.getElementById('imagename').value,
+                src = 'http://13.59.20.142:8888/text/' + val,
+                img = document.createElement('img');
+
+            img.src = src;
+            document.body.appendChild(img);
+        }
+    </script>
+</body>
+</html>
+
 
 ## Acknowledgements
 
