@@ -65,7 +65,7 @@ for example:
 <body>
 <form>
     <textarea id="imagename" name="imagename"
-          rows="5" cols="33">
+          rows="2" cols="33">
      pink flower with yellow petals
     </textarea>
     <input type="button" id="btn" value="GO" />
@@ -76,7 +76,7 @@ for example:
                 src = 'http://13.59.20.142:8888/text/' + val,
                 img = document.createElement('img');
             img.src = src;
-            document.body.appendChild(img);
+            document.body.form.appendChild(img);
         }
     </script>
     
