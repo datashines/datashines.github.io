@@ -64,7 +64,7 @@ for example:
 <html>
 <body>
 <form>
-    <input type="text" id="imagename" value="pink flower with yellow petals" />
+    <input type="textarea" id="imagename" value="pink flower with yellow petals" />
     <input type="button" id="btn" value="GO" />
 </form>
     <script type="text/javascript">
