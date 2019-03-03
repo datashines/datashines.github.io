@@ -65,9 +65,7 @@ for example:
 <body>
 <form>
     <textarea id="imagename" name="imagename"
-          rows="2" cols="33">
-     pink flower with yellow petals
-    </textarea>
+          rows="1" cols="40">pink flower with yellow petals</textarea>
     <input type="button" id="btn" value="GO" />
 </form>
  <img id='image' src='../data/2019-02-28-Text-To-Image-Using-GANs/flower_image.png' alt='flower_image'>
