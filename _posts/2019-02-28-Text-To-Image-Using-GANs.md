@@ -75,7 +75,7 @@ for example:
         document.getElementById('btn').onclick = function() {
             var val = document.getElementById('imagename').value,
                 src = 'http://13.59.20.142:8888/text/' + val,
-     image = document.getElementByClassNameId('image');
+     image = document.getElementById('image');
      image.src=src;
         }
     </script>
