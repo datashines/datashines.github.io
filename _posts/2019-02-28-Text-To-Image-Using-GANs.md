@@ -72,7 +72,7 @@ for example:
     <script type="text/javascript">
         document.getElementById('btn').onclick = function() {
             var val = document.getElementById('imagename').value,
-                src = 'http://34.74.81.134 :8088/text/' + val,
+                src = 'http://34.74.81.134:8088/text/' + val,
      image = document.getElementById('image');
      image.src=src;
         }
