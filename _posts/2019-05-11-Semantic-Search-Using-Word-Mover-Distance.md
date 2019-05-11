@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Semantic Search on text documents using Word Mover Distance
+title: Semantic Search Using Word Mover Distance
 ---
 
 [Semantic Search Dashboard](http://3.19.72.76:8089/)
