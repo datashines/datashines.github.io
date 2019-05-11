@@ -81,8 +81,7 @@ matches are clearly failures of the search engine.
 
 ![]({{ site.baseurl }}/data/2019-05-11-Semantic-Search-Using-Word-Mover-Distance/freespeech.png)
 
- 3. casteism - Surprisingly the results of this query gets the most relevant articles and the best part is
-: none of those articles even have the word "caste" in them, let alone "casteism".
+ 3. casteism - Surprisingly the results of this query gets the most relevant articles and the best part is that none of those articles even have the word "caste" in them, let alone "casteism".
 
 ![]({{ site.baseurl }}/data/2019-05-11-Semantic-Search-Using-Word-Mover-Distance/casteism.png)
 
@@ -97,9 +96,12 @@ To add to the failure, if we by mistake type labour as labout, the results start
 Feel free to check out 
 more cases yourself in the dashboard.
 
-## Search Dashboard
+## Semantic Search Dashboard
 
 Working dashboard is available [here](http://3.19.72.76:8089/)
 
 
+
+
+Thank you for reading this post. Hope it was helpful !
 
