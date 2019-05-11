@@ -100,7 +100,10 @@ more cases yourself in the dashboard.
 
 Working dashboard is available [here](http://3.19.72.76:8089/)
 
+## Next Steps
 
+Taking inspiration from [this tool](https://github.com/ijkilchenko/Fuzbal), the semantic search functionality can be 
+embedded as a browser plugin, where from one can directly look for semantically relevant texts on a web page.
 
 
 Thank you for reading this post. Hope it was helpful !
