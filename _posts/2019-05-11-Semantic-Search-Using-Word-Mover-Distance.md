@@ -62,7 +62,7 @@ found [this article](https://towardsdatascience.com/word-distance-between-word-e
 
 The search dashboard implemetation alongwith related research notebooks can be found 
 [here](https://bitbucket.org/datashines/semantic_search_main/src/master/). 
-Dashboard was created using plotly dash and research was done using gensim's wmd using glove word2vec, nltk's 
+Dashboard was created using [plotly dash](https://plot.ly/products/dash/) and research was done using gensim's wmd using glove word2vec, nltk's 
 wordnetlemmatizer, textblob's nounphrase extractor, and beautifulsoup based scraper.
 
 ## Sample Results
