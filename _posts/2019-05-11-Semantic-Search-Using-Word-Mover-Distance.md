@@ -70,22 +70,22 @@ wordnetlemmatizer, textblob's nounphrase extractor, and beautifulsoup based scra
 Here are some interesting success and failure cases of this search engine where a regular lexical search is not
 sufficient and a semantic search is needed instead.
 
-1. bhasha (language, in Hindi) - this word, though not mentioned anywhere in the text itself, is clearly referring to 
+- bhasha (language, in Hindi) - this word, though not mentioned anywhere in the text itself, is clearly referring to 
 language. Surprisingly the engine gets it right, thanks to the global generalisability of the glove word vectors.
 
 ![]({{ site.baseurl }}/data/2019-05-11-Semantic-Search-Using-Word-Mover-Distance/bhasha.png)
 
-2. free speech - this is a popularly used phrase in Indian politics and society at large. Again, although
+- free speech - this is a popularly used phrase in Indian politics and society at large. Again, although
 not presnt in the text as-is, the engine is able to get the relevant articles as the 4th and 5th matches; the first three
 matches are clearly failures of the search engine.
 
 ![]({{ site.baseurl }}/data/2019-05-11-Semantic-Search-Using-Word-Mover-Distance/freespeech.png)
 
- 3. casteism - Surprisingly the results of this query gets the most relevant articles and the best part is that none of those articles even have the word "caste" in them, let alone "casteism".
+- casteism - Surprisingly the results of this query gets the most relevant articles and the best part is that none of those articles even have the word "caste" in them, let alone "casteism".
 
 ![]({{ site.baseurl }}/data/2019-05-11-Semantic-Search-Using-Word-Mover-Distance/casteism.png)
 
-4. child labour - This is a failure case, where the engine fails to fetch any decent results. 
+- child labour - This is a failure case, where the engine fails to fetch any decent results. 
 
 ![]({{ site.baseurl }}/data/2019-05-11-Semantic-Search-Using-Word-Mover-Distance/childlabour.png)
 
