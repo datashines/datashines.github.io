@@ -55,7 +55,7 @@ Details of data pre-processing can be found in this
  
  Word2vec embedding for each word from document a is compared with word2vec embedding for each word in document b.
  At the end the algorithm will choose the minimum transportation cost to transport every word from sentence 1 to sentence 2.
-Details can be found in the [original paper[](http://proceedings.mlr.press/v37/kusnerb15.pdf). I also
+Details can be found in the [original paper](http://proceedings.mlr.press/v37/kusnerb15.pdf). I also
 found [this article](https://towardsdatascience.com/word-distance-between-word-embeddings-cc3e9cf1d632) light and helpful.
 
 ## Code
