@@ -3,12 +3,14 @@ layout: post
 title: Youtube Comments Machine Learning
 ---
 
-## Introduction
-
 Youtube is the biggest and most popular steaming platform at the time of writing this post. For every 
 youtube video, viewers post comments. I am a personal fan of reading many of those funny ones.
 In general, these comments also give away the popular topics of discussion, and a sentiment around the 
 video. 
+
+
+
+## Introduction
 
 In this blog post, I share my work in utilising these comments to provide the most popular topics
 that are being talked about in the comments, and a general sentiment based on the language of these comments.
@@ -123,7 +125,7 @@ Link to his [original repo](https://bitbucket.org/bitwick/bitflip_pilot_chrome/s
 ## Next Steps
 1. More advanced models on topic modelling as well as sentiment analysis to replace with the current ones.
 2. Better UI for the chrome extension that shows the high level stats more intuitively and is user-friendly.
-
+3. Expand the product to more streaming services beyond Youtube, that facilitate comments on their platforms.
 
 
 Thank you for reading this post. Hope it was helpful !
