@@ -113,6 +113,7 @@ again. Clone the repo, upload the folder to chrome://extensions and should be go
 
 ## Acknowledgements
 
+Big thanks to [Akshay Kumar](https://www.linkedin.com/in/skakshay/) for discussing the initial ideas around this project.
 Special thanks to [Neeraj Lajpal](https://www.linkedin.com/in/neerajlajpal/) for his help with creating the chrome extension. 
 Link to his [original repo](https://bitbucket.org/bitwick/bitflip_pilot_chrome/src/master/) that we used for reference.
 
