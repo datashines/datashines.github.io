@@ -8,7 +8,9 @@ title: Youtube Comments Machine Learning
 Youtube is the biggest and most popular steaming platform at the time of writing this post. For every 
 youtube video, viewers post comments. I am a personal fan of reading many of those funny ones.
 In general, these comments also give away the popular topics of discussion, and a sentiment around the 
-video. In this blog post, I share my work in utilising these comments to provide the most popular topics
+video. 
+
+In this blog post, I share my work in utilising these comments to provide the most popular topics
 that are being talked about in the comments, and a general sentiment based on the language of these comments.
 A by-product of this project is a [chrome extension](https://github.com/arj7192/yc-ml-chrome-ext), that I haven't 
 published yet, but one can locally clone the repo an use the extension locally.
