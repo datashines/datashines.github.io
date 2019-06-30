@@ -35,17 +35,17 @@ a 2-step process here:
 classical topic modelling technique in literature.
 Here are the steps we take to fetch topics out of the youtube comments:
 
-1. Tokenize the text i.e. lemmatize -> get rid of stop words / punctuations / pronouns, etc.
+1 . Tokenize the text i.e. lemmatize -> get rid of stop words / punctuations / pronouns, etc.
 `(Note : our current approach is limited to doing so for assuming the comments are in English)`
 
 ![]({{ site.baseurl }}/data/2019-06-30-Youtube-Comments-Machine-Learning/tokenize.png)
 
-2. We need to move from words to numbers, hence we replace words with their count vectors i.e. 
+2 . We need to move from words to numbers, hence we replace words with their count vectors i.e. 
 how many times do they occur in each document, in this case, each comment.
 
 ![]({{ site.baseurl }}/data/2019-06-30-Youtube-Comments-Machine-Learning/vectorize.png)
 
-3. Finally, we are ready to instantiate an LSA/LSI model. What does this model do ? It basically
+3 . Finally, we are ready to instantiate an LSA/LSI model. What does this model do ? It basically
 transforms our document-word_count matrix into a multiplication of 
 
 - document-topic,
@@ -58,11 +58,11 @@ This gives us the _k_ most important 'topics' across the documents (comments in 
 
 ![]({{ site.baseurl }}/data/2019-06-30-Youtube-Comments-Machine-Learning/lsi.png)
 
-4. Once the model is trained, we can now look at what topics are generated :
+4 . Once the model is trained, we can now look at what topics are generated :
 
 ![]({{ site.baseurl }}/data/2019-06-30-Youtube-Comments-Machine-Learning/lsi_result.png)
 
-5. We also explore slightly more advanced topic modelling approaches like the [LDA](https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation). 
+5 . We also explore slightly more advanced topic modelling approaches like the [LDA](https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation). 
 Will write more on that and other advanced deep learning based approaches in the next blogs though.
 
 ![]({{ site.baseurl }}/data/2019-06-30-Youtube-Comments-Machine-Learning/lda.png)
