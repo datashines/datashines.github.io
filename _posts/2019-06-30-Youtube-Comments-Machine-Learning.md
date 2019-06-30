@@ -6,13 +6,12 @@ title: Youtube Comments Machine Learning
 ## Introduction
 
 Youtube is the biggest and most popular steaming platform at the time of writing this post. For every 
-youtube video, website users post comments. I am a personal fan of reading many of those funny ones.
-In general, these comments also give away the popular topics of discussion, and a sentiment aroud the 
+youtube video, viewers post comments. I am a personal fan of reading many of those funny ones.
+In general, these comments also give away the popular topics of discussion, and a sentiment around the 
 video. In this blog post, I share my work in utilising these comments to provide the most popular topics
 that are being talked about in the comments, and a general sentiment based on the language of these comments.
 A by-product of this project is a [chrome extension](https://github.com/arj7192/yc-ml-chrome-ext), that I haven't 
-published yet, but one can locally
-clone the repo an use the extension locally.
+published yet, but one can locally clone the repo an use the extension locally.
 
 ## Data Access
 
@@ -103,7 +102,7 @@ seen in these example screenshots:
 
 ----
 
-![]({{ site.baseurl }}/data/2019-06-30-Youtube-Comments-Machine-Learning/res1.jpg)
+![]({{ site.baseurl }}/data/2019-06-30-Youtube-Comments-Machine-Learning/res2.jpg)
 
 ----
 
@@ -115,7 +114,7 @@ again. Clone the repo, upload the folder to chrome://extensions and should be go
 ## Acknowledgements
 
 Special thanks to [Neeraj Lajpal](https://www.linkedin.com/in/neerajlajpal/) for his help with creating the chrome extension. 
-Link to his [original repo](https://bitbucket.org/bitwick/bitflip_pilot_chrome/src/master/) that I used for reference.
+Link to his [original repo](https://bitbucket.org/bitwick/bitflip_pilot_chrome/src/master/) that we used for reference.
 
 
 ## Next Steps
