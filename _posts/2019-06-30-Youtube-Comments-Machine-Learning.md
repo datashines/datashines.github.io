@@ -92,18 +92,18 @@ would be “The food here isn’t really all that great”._)
 
 ## Results
 
-First, I put these three tasks (word count, topic model, sentiments) as apis using Flask + Python (Code [here](https://github.com/arj7192/yc-ml)).
-To make this really usable, I created a chrome extension. Once you are on a youtube video page,
+First, we put these three tasks (word count, topic model, sentiments) as apis using Flask + Python (Code [here](https://github.com/arj7192/yc-ml)).
+To make this really usable, we created a chrome extension. Once you are on a youtube video page,
 you can click this extension, and it should hopefully show results from all these 3 apis as can be
 seen in these example screenshots:
 
 ----
 
-![]({{ site.baseurl }}/data/2019-06-30-Youtube-Comments-Machine-Learning/res1.png)
+![]({{ site.baseurl }}/data/2019-06-30-Youtube-Comments-Machine-Learning/res1.jpg)
 
 ----
 
-![]({{ site.baseurl }}/data/2019-06-30-Youtube-Comments-Machine-Learning/res1.png)
+![]({{ site.baseurl }}/data/2019-06-30-Youtube-Comments-Machine-Learning/res1.jpg)
 
 ----
 
