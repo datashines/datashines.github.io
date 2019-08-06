@@ -3,7 +3,7 @@ layout: post
 title: Semantic Search Using Word Mover Distance
 ---
 
-[Semantic Search Dashboard](http://3.19.72.76:8089/)
+[Semantic Search Dashboard](http://3.16.123.111:8089/)
 
 ## Introduction
 
@@ -98,7 +98,7 @@ more cases yourself in the dashboard.
 
 ## Semantic Search Dashboard
 
-Working dashboard is available [here](http://3.19.72.76:8089/)
+Working dashboard is available [here](http://3.16.123.111:8089/)
 
 ## Next Steps
 
