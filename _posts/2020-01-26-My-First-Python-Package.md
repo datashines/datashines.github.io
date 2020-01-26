@@ -4,7 +4,7 @@ title: My First Python Package
 ---
 
 
-Text detection in images is a well known computer vision problem and has been addressed with many 
+Text detection in images is a well known computer vision problem and has been addressed by many 
 approaches. One of them is Character Region Awareness for Text Detection (CRAFT). While working on 
 a task that involved text detection, I stumbled upon the [CRAFT paper](https://arxiv.org/pdf/1904.01941.pdf) 
 and its [working implementation](https://github.com/clovaai/CRAFT-pytorch). The implementation, while
