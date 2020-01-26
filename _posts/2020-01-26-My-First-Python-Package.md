@@ -3,7 +3,6 @@ layout: post
 title: My First Python Package
 ---
 
-## Introduction
 
 Text detection in images is a well known computer vision problem and has been addressed with many 
 approaches. One of them is Character Region Awareness for Text Detection (CRAFT). While working on 
@@ -35,7 +34,7 @@ the need for any any additional labelling as follows:
 well-labelled character level bounding box coordinates and softly with real images with just 
 word level bounding box coordinates, as shown in the figure below:
 
-![]({{ site.baseurl }}/data/22020-01-26-My-First-Python-Package/weak_supervised_learning.png)
+![]({{ site.baseurl }}/data/2020-01-26-My-First-Python-Package/weak_supervised_learning.png)
 
 - it uses confidence maps during weak supervised learning to de-prioritize instances where
 the number of characters detected by the interim trained model doesn't match the word length
