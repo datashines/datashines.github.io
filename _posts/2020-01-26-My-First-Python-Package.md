@@ -94,7 +94,7 @@ cv2.imshow('fig', heatmap)
  
 Usage and source code details can be found [here](https://github.com/arj7192/CRAFT-pytorch)
 
-As an aside, I have made a PR to the authors of original implementation, hoping it gets merged :fingers_crossed:
+As an aside, I have made a [PR](https://github.com/clovaai/CRAFT-pytorch/pull/90) to the authors of original implementation, hoping it gets merged :fingers_crossed:
 
 ## Acknowledgements
 
