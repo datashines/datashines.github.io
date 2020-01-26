@@ -26,13 +26,15 @@ categories.
 
 As for the textual part of the data, according to our reference paper:
 
-
 <code>
 For text features, we first pre-train a deep convolutionalrecurrent text encoder on 
 structured joint embedding of
 text captions with 1,024-dimensional GoogLeNet image
 embedings
 </code>
+
+
+
 We used 5 captions per image while training.
 
 ## Network architecture: 
@@ -58,9 +60,29 @@ for example:
 
 [![youtube_video](https://img.youtube.com/vi/aHDQc7wm_UI/0.jpg)](https://youtu.be/aHDQc7wm_UI)
 
+
 ## Demo
 
-***to be added***
+<html>
+<body>
+<form>
+    <textarea id="imagename" name="imagename"
+          rows="1" cols="40">pink flower with yellow petals</textarea>
+    <input type="button" id="btn" value="GO" />
+</form>
+ <img id='image' src='../data/2019-02-28-Text-To-Image-Using-GANs/flower_image.png' alt='flower_image'>
+    <script type="text/javascript">
+        document.getElementById('btn').onclick = function() {
+            var val = document.getElementById('imagename').value,
+                src = 'http://34.74.81.134:8088/text/' + val,
+     image = document.getElementById('image');
+     image.src=src;
+        }
+    </script>
+    
+</body>
+</html>
+
 
 ## Acknowledgements
 
