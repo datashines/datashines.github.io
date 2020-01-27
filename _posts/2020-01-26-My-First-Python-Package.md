@@ -91,6 +91,16 @@ cv2.imshow('fig', img_boxed)
 cv2.imshow('fig', heatmap)
 
 ```
+
+The figure below demonstrates these few lines of code in action
+
+![]({{ site.baseurl }}/data/2020-01-26-My-First-Python-Package/demo.png)
+
+Quick notes on this demo :
+-- There are 2 heatmaps in this picture : (left) one for region scores and (right) one for affinity scores.
+-- I have just downsampled the image for faster inference and changed channels from cv2 BGR to RGB.
+-- `img = np.array(img)` is an extra step needed for the reshape in the findpoly function to work properly downstream.
+ 
  
 Usage and source code details can be found [here](https://github.com/arj7192/CRAFT-pytorch)
 
