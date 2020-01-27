@@ -70,7 +70,7 @@ which can be found [here](https://github.com/arj7192/CRAFT-pytorch)
 
 ## Outcome
 
-We now have a python package called [craft-text-detection](https://pypi.org/project/craft-text-detection/0.0.1/) 
+We now have a python package called [craft-text-detection](https://pypi.org/project/craft-text-detection/0.0.2/) 
 running live !
 Using this package is as easy as:
 ```
