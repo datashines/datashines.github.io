@@ -12,20 +12,15 @@ supervised learning. I immediately accepted the offer. It was not easy to write 
  and my journey in writing it.  
 
 
-
 ## The Supervised Learning Workshop
 
-The book, titled - *The Supervised Learning Workshop* is meant for professionals as well
+The book, titled - **The Supervised Learning Workshop** is meant for professionals as well
 as students who have some knowledge of general programming (preferably in Python) and
 who want to get some hands on experience with the kind of machine learning that uses 
 labelled datasets i.e. supervised learning. In my practical experience, almost 80-90 % of 
 machine learning work I have done has been about supervised learning, and this book helps
 readers to both understands its concepts as well as gain the ability to train and validate
 a range of supervised machine learning models.
-
-Here is a glimpse of what the book is about:
-
-<object data="{{ site.baseurl }}/data/2020-03-07-My-First-Book/TheSupervisedLearningWorkshop.pdf" width="1000" height="1000" type='application/pdf'/>
 
 ## About the publisher
 
@@ -104,5 +99,9 @@ congratulate my co-author [Blaine Bateman](https://www.linkedin.com/in/blainebat
  
 
 
-Thank you for reading this post. Hope it was insightful, and please do read the book !
+Thank you for reading this post. Hope it was insightful.
+Here is a glimpse of what the book is about:
+
+<object data="{{ site.baseurl }}/data/2020-03-07-My-First-Book/TheSupervisedLearningWorkshop.pdf" width="1000" height="1000" type='application/pdf'/>
+
 
