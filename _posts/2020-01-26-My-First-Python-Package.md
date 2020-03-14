@@ -3,9 +3,8 @@ layout: post
 title: My First Python Package
 ---
 
-## Introduction
 
-Text detection in images is a well known computer vision problem and has been addressed with many 
+Text detection in images is a well known computer vision problem and has been addressed by many 
 approaches. One of them is Character Region Awareness for Text Detection (CRAFT). While working on 
 a task that involved text detection, I stumbled upon the [CRAFT paper](https://arxiv.org/pdf/1904.01941.pdf) 
 and its [working implementation](https://github.com/clovaai/CRAFT-pytorch). The implementation, while
@@ -35,7 +34,7 @@ the need for any any additional labelling as follows:
 well-labelled character level bounding box coordinates and softly with real images with just 
 word level bounding box coordinates, as shown in the figure below:
 
-![]({{ site.baseurl }}/data/22020-01-26-My-First-Python-Package/weak_supervised_learning.png)
+![]({{ site.baseurl }}/data/2020-01-26-My-First-Python-Package/weak_supervised_learning.png)
 
 - it uses confidence maps during weak supervised learning to de-prioritize instances where
 the number of characters detected by the interim trained model doesn't match the word length
@@ -71,7 +70,7 @@ which can be found [here](https://github.com/arj7192/CRAFT-pytorch)
 
 ## Outcome
 
-We now have a python package called [craft-text-detection](https://pypi.org/project/craft-text-detection/0.0.1/) 
+We now have a python package called [craft-text-detection](https://pypi.org/project/craft-text-detection/0.0.2/) 
 running live !
 Using this package is as easy as:
 ```
@@ -92,10 +91,20 @@ cv2.imshow('fig', img_boxed)
 cv2.imshow('fig', heatmap)
 
 ```
+
+The figure below demonstrates these few lines of code in action
+
+![]({{ site.baseurl }}/data/2020-01-26-My-First-Python-Package/demo.png)
+
+Quick notes on this demo :
+- There are 2 heatmaps in this picture : (left) one for region scores and (right) one for affinity scores.
+- I have just downsampled the image for faster inference and changed channels from cv2 BGR to RGB.
+- `img = np.array(img)` is an extra step needed for the reshape in the findpoly function to work properly downstream.
+ 
  
 Usage and source code details can be found [here](https://github.com/arj7192/CRAFT-pytorch)
 
-As an aside, I have made a PR to the authors of original implementation, hoping it gets merged :fingers_crossed:
+As an aside, I have made a [PR](https://github.com/clovaai/CRAFT-pytorch/pull/90) to the authors of original implementation, hoping it gets merged :fingers_crossed:
 
 ## Acknowledgements
 
