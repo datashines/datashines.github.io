@@ -10,6 +10,9 @@ supervised learning. I immediately accepted the offer. It was not easy to write 
  in such a short amount of time especially alongside a full-time job. But, it has certainly
  been worth the time and effort spent. This blog post is to share what the book is about
  and my journey in writing it.  
+ 
+ 
+ ![]({{ site.baseurl }}/data/2020-03-07-My-First-Book/tslw.png)
 
 
 ## The Supervised Learning Workshop
