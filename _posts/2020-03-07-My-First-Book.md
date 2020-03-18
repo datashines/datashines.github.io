@@ -110,7 +110,10 @@ Thank you for reading this post. Hope it was insightful.
 
 Here is a glimpse of what the book is about:
 
-<img src="{{ site.baseurl }}/data/2020-03-07-My-First-Book/TheSupervisedLearningWorkshop.pdf" alt="some text"  width="4200" height="4200">
-
-
-
+<button class="btn btn-primary" data-toggle="collapse" data-target="#Spectra">Open Absortion Spectra Slides</button> 
+<div id="Spectra" class="collapse">    
+<object data="{{ site.baseurl }}/data/2020-03-07-My-First-Book/TheSupervisedLearningWorkshop.pdf" width="750px" height="750px">
+    <embed src="{{ site.baseurl }}/data/2020-03-07-My-First-Book/TheSupervisedLearningWorkshop.pdf">
+    </embed>
+</object>
+</div>
