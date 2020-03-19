@@ -109,7 +109,8 @@ Thank you for reading this post. Hope it was insightful.
 ## Sneak Peek
 
 Here is a glimpse of what the book is about:
-
-<object data="{{ site.baseurl }}/data/2020-03-07-My-First-Book/TheSupervisedLearningWorkshop.pdf" width="1000" height="1000" type='application/pdf'/>
-
-
+  
+<object data="{{ site.baseurl }}/data/2020-03-07-My-First-Book/TheSupervisedLearningWorkshop.pdf" width="750px" height="750px">
+    <embed src="{{ site.baseurl }}/data/2020-03-07-My-First-Book/TheSupervisedLearningWorkshop.pdf">
+    </embed>
+</object>
