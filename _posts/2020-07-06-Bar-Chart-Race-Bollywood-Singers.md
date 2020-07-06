@@ -153,7 +153,7 @@ animator.to_html5_video()
  
 The output animation should look something like this:
  
- <video width="1600" height="750" autoplay loop>
+ <video width="1040" height="500" autoplay loop>
   <source src="{{ site.baseurl }}/data/2020-07-06-Bar-Chart-Race-Bollywood-Singers/top_bollywood_singers_race.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video> 
