@@ -3,12 +3,13 @@ layout: post
 title: Bar Chart Race - Bollywood Singers
 ---
 
-Bar chart races have lately become popular as a form of visualizations. This post is all about
-generating one from scratch. Equally interesting is process of data extraction for this exercise. We 
+Bar chart races have lately become popular as a form of visualization. This post is all about
+generating one from scratch including an interesting data extraction process. We 
 will generate the bar chart race for the most popular singers Bollywood has had between the years 1933 
-till 2020. We will directly parse data from Wikipedia. Using nested loops, we will first iterate 
-through the pages of films of a given year and then skim through each film page per decade. We will extract
-data using beautifulsoup and pandas and use matplotlib animation to generate the bar chart race.
+and 2020. We will directly parse data from Wikipedia. Using nested loops, we will first iterate 
+through the pages of films of a given year and then skim through each film page for a given year. We 
+will extract data using beautifulsoup and pandas and use matplotlib animation to generate the bar chart 
+race.
 
 ## Data Extraction
 
@@ -152,7 +153,7 @@ animator.to_html5_video()
  
 The output animation should look something like this:
  
- <video width="1096" height="512" autoplay loop>
+ <video width="1600" height="750" autoplay loop>
   <source src="{{ site.baseurl }}/data/2020-07-06-Bar-Chart-Race-Bollywood-Singers/top_bollywood_singers_race.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video> 
@@ -170,7 +171,7 @@ available at my [github](https://github.com/arj7192/bollywood_singers_bar_chart_
 Grateful to [Wikipedia](https://en.wikipedia.org/) for being the amazing data source it is. I also took
 inspiration from [this medium blog](https://medium.com/analytics-vidhya/web-scraping-wiki-tables-using-beautifulsoup-and-python-6b9ea26d8722)
  to scrape tabular data from wikipedia pages and the bar chart race code was mostly borrowed from 
- [another well-written medium blog](https://towardsdatascience.com/bar-chart-race-in-python-with-matplotlib-8e687a5c8a41)
+ [another well-written medium blog.](https://towardsdatascience.com/bar-chart-race-in-python-with-matplotlib-8e687a5c8a41)
 
 
 Thank you for reading this post. Hope it was useful !
