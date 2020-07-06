@@ -1,8 +1,7 @@
 ---
 layout: post
-title: Bar Chart Race - Voices of Bollywood
+title: Bar Chart Race - Bollywood Singers
 ---
-
 
 Bar chart races have lately become popular as a form of visualizations. This post is all about
 generating one from scratch. Equally interesting is process of data extraction for this exercise. We 
@@ -30,7 +29,7 @@ look for hyperlinks under the _Title_ column. We enter these hyperlinks (i.e. fi
 and using pandas library of Python, we read tables on these pages that have columns Singer(s) or Singer 
 in them. The relevant code snippet is as follows:
  
-<code>
+<pre><code class="python">
 df = pd.DataFrame()
 yr_range = range(1933,2022)
 for yr in tqdm(yr_range):
@@ -67,7 +66,7 @@ for yr in tqdm(yr_range):
                         print(f"Columns not found, available columns are --> {song_table.columns.tolist()}")
                         print(f"Relevant URL --> {film_url}")
                         continue
-</code>
+</code></pre>
 
 This is what we get as our final dataframe after this step:
 
@@ -84,7 +83,7 @@ year. Because _Singer(s)_ column might contain list of names, we need to convert
 of names. Next, we need to explode the singer column such that each row has just one singer. Finally, we
 assign a count of 1 to each row and then groupby (year, singer) followed by sum of counts.
 
-<code>
+<pre><code class="python">
 df_singers = df_copy[df_copy['Singer(s)'].notnull()].copy()[['year', 'Singer(s)']]
 df_singers['Singer(s)'] = df_singers['Singer(s)'].map(lambda c: c.split(', '))
 df_singers = df_singers.explode('Singer(s)')
@@ -92,7 +91,7 @@ df_singers = df_singers.rename(columns={'Singer(s)': 'Singer'})
 df_singers['count'] = 1
 df_singers = df_singers.groupby(['year', 'Singer']).sum().reset_index()
 df_singers = df_singers[['year', 'Singer', 'count']].sort_values(by=['year', 'count', 'Singer'], ascending=[True, False, True])
-</code>
+</code></pre>
 
 This shall shape the data as something like this:
 
@@ -107,7 +106,7 @@ data. This will be a horizontal bar graph showing top 15 singers (based on count
 we have created the function for generating static chart for 1 year, we can use matplotlib's FuncAnimation
 module to generate animated bar charts year-by-year. The function for generating static bar-chart is as follows:
 
-<code>
+<pre><code class="python">
 fig, ax = plt.subplots(figsize=(50, 25))
 def draw_barchart(df, year, col_name):
     dff = df[df['year'].eq(year)].sort_values(by='count', ascending=True).tail(15)
@@ -132,9 +131,8 @@ def draw_barchart(df, year, col_name):
     ax.text(1, 0, 'by @arj7192', transform=ax.transAxes, ha='right',
             color='#777777', bbox=dict(facecolor='white', alpha=0.8, edgecolor='white'), size=57)
     plt.box(False)
-    
 draw_barchart(df_singers, 2020, 'Singer')
-</code>
+</code></pre>
 
 The last line in this code shall generate the graph for year 2020, as follows:
 
@@ -143,26 +141,36 @@ The last line in this code shall generate the graph for year 2020, as follows:
 Before animating the bar charts, we define a wrapper specific to singers over the above generic function. 
 Once done, we can animate the bar charts. Firstly, the code for this section will look as follows:
 
-<code>
+<pre><code class="python">
 def draw_barchart_singer(yr):
     return draw_barchart(df_singers, yr, 'Singer')
-    
 import matplotlib.animation as animation
 fig, ax = plt.subplots(figsize=(50, 25))
 animator = animation.FuncAnimation(fig, draw_barchart_singer, frames=range(1933, 2021))
 animator.to_html5_video()
-</code>
+</code></pre>
  
 The output animation should look something like this:
  
- <video width="720" height="320" autoplay loop>
+ <video width="1096" height="512" autoplay loop>
   <source src="{{ site.baseurl }}/data/2020-07-06-Bar-Chart-Race-Bollywood-Singers/top_bollywood_singers_race.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video> 
- 
- 
+
+## Conclusion
+
+This is a quick and fun project which can be extended to other entities like Lyricists, Music composers, 
+etc. I have done similar work for Directors and Movie Genres, however because the data is relatively less
+(a director directs far fewer number of films than the number of songs sung by a singer). However, the code
+for that exercise as well as the above demonstration for singers, including other scaffolding code is 
+available at my [github](https://github.com/arj7192/bollywood_singers_bar_chart_race)
+
 ## Acknowledgements
 
-I am really thankful to [Quantic School of Business](https://quantic.mba/) for the amazing program and the MBA degree.
+Grateful to [Wikipedia](https://en.wikipedia.org/) for being the amazing data source it is. I also took
+inspiration from [this medium blog](https://medium.com/analytics-vidhya/web-scraping-wiki-tables-using-beautifulsoup-and-python-6b9ea26d8722)
+ to scrape tabular data from wikipedia pages and the bar chart race code was mostly borrowed from 
+ [another well-written medium blog](https://towardsdatascience.com/bar-chart-race-in-python-with-matplotlib-8e687a5c8a41)
 
-Thank you for reading this post. Hope it was insightful.
+
+Thank you for reading this post. Hope it was useful !
