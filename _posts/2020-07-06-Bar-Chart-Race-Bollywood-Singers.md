@@ -162,7 +162,7 @@ Your browser does not support the video tag.
 
 This is a quick and fun project which can be extended to other entities like Lyricists, Music composers, 
 etc. I have done similar work for Directors and Movie Genres, however because the data is relatively less
-(a director directs far fewer number of films than the number of songs sung by a singer). However, the code
+(a director directs far fewer number of films than the number of songs sung by a singer). The code
 for that exercise as well as the above demonstration for singers, including other scaffolding code is 
 available at my [github](https://github.com/arj7192/bollywood_singers_bar_chart_race)
 
