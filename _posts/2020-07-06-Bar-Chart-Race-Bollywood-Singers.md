@@ -75,7 +75,7 @@ Once done, we can animate the bar charts. Firstly, the code for this section wil
  
 The output animation should look something like this:
  
- <video width="512" height="256" autoplay loop>
+ <video width="512" height="256" autoplay loop controls>
   <source src="{{ site.baseurl }}/data/2020-07-06-Bar-Chart-Race-Bollywood-Singers/top_bollywood_singers_race.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video> 
