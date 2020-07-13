@@ -3,32 +3,34 @@ layout: post
 title: Bar Chart Race - Bollywood Singers
 ---
 
-Bar chart races have lately become popular as a form of visualization. This post is all about
-generating one from scratch including an interesting data extraction process. We 
+Bar chart races have lately become a popular form of visualization. This post is all about
+generating a bar chart race from scratch involving an interesting data extraction process. We 
 will generate the bar chart race for the most popular singers Bollywood has had between the years 1933 
 and 2020. We will directly parse data from Wikipedia. Using nested loops, we will first iterate 
-through the pages of films of a given year and then skim through each film page for a given year. We 
+through the list of years, then through the list of films across a given years and then skim through each film's page. We 
 will extract data using beautifulsoup and pandas and use matplotlib animation to generate the bar chart 
 race.
 
 ## Data Extraction
 
 We use wikipedia as our source of data. Essentially we traverse through the list of films for each year 
-and in the list, we further go to each film's page. On the film page, we look for the songs list (or the
-soundtrack table. We do so for each film for each year from 1933 to 2020. For example, here is the wiki 
-page for list of films for 1980:
+and in the list, we further visit each film's page. On the film page, we look for the songs list (or the
+soundtrack table). We do so for each film for the years 1933 to 2020. For example, here is the wiki 
+page for the list of films for the year 1980:
 
 ![]({{ site.baseurl }}/data/2020-07-06-Bar-Chart-Race-Bollywood-Singers/list_of_films.png)
 
-And here is the page of one film from this list of films, which also shows the soundtrack table:
+And here is the page of one film from this list of films, which also shows a soundtrack table:
 
 ![]({{ site.baseurl }}/data/2020-07-06-Bar-Chart-Race-Bollywood-Singers/film_page.png)
 
-As we can see, the films are listed on a table, under the column _Title_. Using BeautifulSoup library in 
+As we can see in the first figure, the films are listed on a table, under the column _Title_. Using BeautifulSoup library in 
 Python, we extract all the tables of this page i.e. elements with <table> tag, and for each table, we 
-look for hyperlinks under the _Title_ column. We enter these hyperlinks (i.e. film pages) one by one, 
+look for hyperlinks under the _Title_ column. 
+
+We then scrape data from these hyperlinks (i.e. film pages) one by one, 
 and using pandas library of Python, we read tables on these pages that have columns Singer(s) or Singer 
-in them. The relevant code snippet is as follows:
+in them as can be seen in the second figure above. The relevant code snippet is as follows:
  
 {% gist 9e7baa591aefaed7ec11c47f8b8453a5 %}
 
@@ -36,8 +38,8 @@ This is what we get as our final dataframe after this step:
 
 ![]({{ site.baseurl }}/data/2020-07-06-Bar-Chart-Race-Bollywood-Singers/dataframe.png)
 
-Note that there are other columns we tried to extract as well, but apparently data does not exist for 
-all the columns all the time. This indicates need for data cleaning which we will do next.
+Note that there are other columns we tried to extract as well, but apparently, data does not exist for 
+all the columns all the time. This indicates need for data cleaning/processing which we will do next.
 
  
 ## Data Processing
@@ -68,7 +70,7 @@ The last line in this code shall generate the graph for year 2020, as follows:
 
 ![]({{ site.baseurl }}/data/2020-07-06-Bar-Chart-Race-Bollywood-Singers/bar_chart_static.png)
 
-Before animating the bar charts, we define a wrapper specific to singers over the above generic function. 
+Before animating the bar charts, we define a wrapper function specifically for singers over the above generic function. 
 Once done, we can animate the bar charts. Firstly, the code for this section will look as follows:
 
 {% gist b43bd51198f40964e10bba3725090e70 %}
