@@ -89,4 +89,4 @@ Thank you for reading this post. Hope it was insightful.
 
 #### P.S. My Degree
 
-
+![]({{ site.baseurl }}/data/2020-03-22-My-MBA-journey-at-Quantic/degree.jpeg)
