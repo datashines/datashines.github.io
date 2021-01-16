@@ -178,7 +178,12 @@ of distributed deep learning model training in PyTorch.
 **12 - PyTorch and AutoML**
 * The NAS discussions done under chapters 3 and 5 aside, this chapter is a deep dive into the field of AutoML which covers both
 NAS as well as hyperparameter search.
-{% include image.html url="/data/2021-01-14-Lessons-From-Writing-A-Deep-Learning-Book/ch12.png" description="AutoPyTorch Model Architecture" %}
+<figure>
+    <p style="text-align:center">
+      <img src="{{site.url}}/data/2021-01-14-Lessons-From-Writing-A-Deep-Learning-Book/ch12.png" alt="AutoPyTorch Model Architecture" width="50%"/>
+     </p>
+      <figcaption><i>AutoPyTorch Model Architecture</i></figcaption>
+    </figure>
 * You will learn how to use AutoPyTorch to perform AutoML with PyTorch as well as Optuna, which 
 is a cool hyperparameter search library for PyTorch.
 
