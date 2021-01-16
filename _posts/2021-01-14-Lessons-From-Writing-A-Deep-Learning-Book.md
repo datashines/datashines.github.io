@@ -92,12 +92,14 @@ Following are the chapters in the book, briefly mentioning the contents within:
 
 **1 - Overview of Deep Learning using PyTorch** 
 * This chapter revisits the fundamentals of deep learning - neurons, layers, activation functions, optimization schedules, and so on.
-<p style="text-align:center">
+
     <figure>
+    <p style="text-align:center">
       <img src="{{site.url}}/data/2021-01-14-Lessons-From-Writing-A-Deep-Learning-Book/ch1.png" alt="Popular Deep Learning Models" width="50%"/>
+      </p>
       <figcaption><i>Popular Deep Learning Models</i></figcaption>
     </figure> 
-</p>
+
 * This chapter simultaneously also recaps the basics of PyTorch - tensor, torch modules, torch functions, etc.
 
 **2 - Combining CNNs and LSTMs**
@@ -145,12 +147,14 @@ learn about the Pix2Pix model which is another well-known GAN model that automat
 **9 - Deep Reinforcement Learning**
 * This chapter is both a vary brief overview of the field of DRL, as well as a deep dive into the world of Deep Q-learning
 Networks (DQNs).
-<p style="text-align:center">
+
     <figure>
+    <p style="text-align:center">
       <img src="{{site.url}}/data/2021-01-14-Lessons-From-Writing-A-Deep-Learning-Book/ch9.png" alt="Pong Video Game" width="50%"/>
+      </p>
       <figcaption><i>Pong Video Game</i></figcaption>
     </figure> 
-</p>
+
 * You'll learn to train an AI video game player for the pong video game using PyTorch and gym.
 
 **10 - Operationalizing PyTorch Models into Production**
@@ -163,12 +167,13 @@ Finally, this chapter walks through the various ways of working with PyTorch in 
 **11 - Distributed Training**
 * This chapter focuses on demonstrating how to leverage performance gains in terms of model training time, with the help 
 of distributed deep learning model training in PyTorch.
-<p style="text-align:center">
     <figure>
+    <p style="text-align:center">
       <img src="{{site.url}}/data/2021-01-14-Lessons-From-Writing-A-Deep-Learning-Book/ch11.png" alt="Distributed training logs" width="50%"/>
+     </p>
       <figcaption><i>Distributed training logs</i></figcaption>
     </figure> 
-</p>
+
 
 **12 - PyTorch and AutoML**
 * The NAS discussions done under chapters 3 and 5 aside, this chapter is a deep dive into the field of AutoML which covers both
@@ -179,24 +184,26 @@ is a cool hyperparameter search library for PyTorch.
 
 **13 - PyTorch and Explainable AI**
 * In this chapter, you will learn to reason the model predictions to some extent, by dissecting the trained PyTorch model.
-<p style="text-align:center">
     <figure>
+    <p style="text-align:center">
       <img src="{{site.url}}/data/2021-01-14-Lessons-From-Writing-A-Deep-Learning-Book/ch13.png" alt="Overlaid Integrated Gradients" width="50%"/>
+     </p>
       <figcaption><i>Overlaid Integrated Gradients</i></figcaption>
     </figure>
-</p>
+
 * This chapter also
 explores a fantastic model interpretability library called Captum, which further helps investigate the inner workings of a trained model.
 
 **14 - Rapid Prototyping with PyTorch**
 * The final chapter of this book discusses two libraries - fast.ai and PyTorch Lightning - both of which are aimed at 
 making the process of training PyTorch models faster and simpler.
-<p style="text-align:center">
     <figure>
+    <p style="text-align:center">
       <img src="{{site.url}}/data/2021-01-14-Lessons-From-Writing-A-Deep-Learning-Book/ch14.png" alt="fast.ai training logs" width="50%"/>
+      </p>
       <figcaption><i>fast.ai training logs</i></figcaption>
     </figure>
-</p>
+
 * You will learn to use both of these libraries and briefly 
 learn the distinct features offered by each of them. 
 
