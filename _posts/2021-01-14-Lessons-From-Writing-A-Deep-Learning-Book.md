@@ -23,10 +23,7 @@ And for doing so, I had to use some deep learning library as a substrate to buil
 knowledge base on. And therein comes the second question. Why isn't it **Mastering [TensorFlow](https://www.tensorflow.org/)** ? Although I am not significantly leaning towards one library 
 compared to another, this decision was a result of (i) [the recent trends indicating rising popularity and coverage of PyTorch](https://www.linkedin.com/posts/yann-lecun-0b999_tensorflow-pytorch-ai-activity-6683087808535523328-SrC_/?_l=en_US) 
 <br>
-<figure>
-  <img src="{{site.url}}/data/2021-01-14-Lessons-From-Writing-A-Deep-Learning-Book/pytorch_vs_tensorflow.jpeg" alt="PyTorch vs TensorFlow"/>
-  <figcaption>PyTorch vs TensorFlow</figcaption>
-</figure>
+{% include image.html url="/data/2021-01-14-Lessons-From-Writing-A-Deep-Learning-Book/pytorch_vs_tensorflow.jpeg" description="PyTorch vs TensorFlow" %}
 <br>
 as well as  (ii) p product preference expressed by the publisher ([Packt](https://www.packtpub.com/)).
 
@@ -95,56 +92,38 @@ a decent understanding of the publishing lifecycle - the different steps involve
 Following are the chapters in the book, briefly mentioning the contents within:
 
 1. Overview of Deep Learning using PyTorch
-This chapter revisits the fundamentals of deep learning - neurons, layers, activation functions, optimization schedules, and so on. 
-<figure>
-  <img src="{{site.url}}/data/2021-01-14-Lessons-From-Writing-A-Deep-Learning-Book/ch1.png" alt="Popular Deep Learning Models"/>
-  <figcaption>Popular Deep Learning Models</figcaption>
-</figure>
+This chapter revisits the fundamentals of deep learning - neurons, layers, activation functions, optimization schedules, and so on.
+{% include image.html url="/data/2021-01-14-Lessons-From-Writing-A-Deep-Learning-Book/ch1.png" description="Popular Deep Learning Models" %}
 This chapter simultaneously also recaps the basics of PyTorch - tensor, torch modules, torch functions, etc.
 
 2. Combining CNNs and LSTMs
 You will learn to build an image caption generator which is a combination of CNN and LSTM models.
-<figure>
-  <img src="{{site.url}}/data/2021-01-14-Lessons-From-Writing-A-Deep-Learning-Book/ch2.png" alt="Image Captioning Model"/>
-  <figcaption>Image Captioning Model</figcaption>
-</figure>
+{% include image.html url="/data/2021-01-14-Lessons-From-Writing-A-Deep-Learning-Book/ch2.png" description="Image Captioning Model" %}
 This chapter 
 is meant to build the momentum to gear up for the next chapters which extensively cover various neural architectures.
 
 3. Deep CNN Architectures
 One of the biggest chapters of the book, it covers a vast range of CNN model architectures ever since they were invented - 
-starting from LeNet all the way to EfficientNets, with a focus on image classification for the exercises. 
-<figure>
-  <img src="{{site.url}}/data/2021-01-14-Lessons-From-Writing-A-Deep-Learning-Book/ch3.png" alt="Convolutional Architecture Evolution"/>
-  <figcaption>Convolutional Architecture Evolution</figcaption>
-</figure>
+starting from LeNet all the way to EfficientNets, with a focus on image classification for the exercises.
+{% include image.html url="/data/2021-01-14-Lessons-From-Writing-A-Deep-Learning-Book/ch3.png" description="Convolutional Architecture Evolution" %} 
 
 
 4. Deep Recurrent Model Architectures
 Similar to the previous chapter, this one walks through the evolution of recurrent architectures, starting from vanilla RNNs,
 to LSTMs, GRUs and beyond.
-<figure>
-  <img src="{{site.url}}/data/2021-01-14-Lessons-From-Writing-A-Deep-Learning-Book/ch4.jpg" alt="LSTM Cell Architecture"/>
-  <figcaption>LSTM Cell Architecture</figcaption>
-</figure>
+{% include image.html url="/data/2021-01-14-Lessons-From-Writing-A-Deep-Learning-Book/ch4.jpg" description="LSTM Cell Architecture" %}
 You will also learn to train sentiment detection RNN and LSTM models using PyTorch along the way.
 
 5. Hybrid Advanced Models
 This chapter is a conclusion to the discussion of model architectures. It picks up from where we end in chapter 3 and chapter 4.
-<figure>
-  <img src="{{site.url}}/data/2021-01-14-Lessons-From-Writing-A-Deep-Learning-Book/ch5.png" alt="Transformer Architecture"/>
-  <figcaption>Transformer Architecture</figcaption>
-</figure>
+{% include image.html url="/data/2021-01-14-Lessons-From-Writing-A-Deep-Learning-Book/ch5.png" description="Transformer Architecture" %}
 Continuing from chapter 4, we discuss transformers which have essentially rendered recurrent neural networks redundant. And 
 resuming from the neural architecture search (NAS) discussions at the end of chapter 4, we discuss RandWireNNs which is a well known NAS approach. 
 
 6. Music and Text Generation with PyTorch
 We enter into the exploration of generative artistic AI models in this chapter. First, we use the transformer model discussed in the
 previous chapter to generate meaningful text. We discuss text generation strategies such as greedy search, beam search, etc.
-<figure>
-  <img src="{{site.url}}/data/2021-01-14-Lessons-From-Writing-A-Deep-Learning-Book/ch6.png" alt="Beam Search"/>
-  <figcaption>Beam Search</figcaption>
-</figure>
+{% include image.html url="/data/2021-01-14-Lessons-From-Writing-A-Deep-Learning-Book/ch6.png" description="Beam Search" %}
 In the second
 half of the chapter, we train an AI music composer that should learn to generate Mozart-like compositions. Here is sample generated 
 in the chapter exercise:
@@ -161,66 +140,45 @@ the style of one image with the content of another.
 
 8. Deep Convolutional GANs
 Concluding the generative models discussion, you will learn to build a DCGAN model in PyTorch on the MNIST dataset.
-<figure>
-  <img src="{{site.url}}/data/2021-01-14-Lessons-From-Writing-A-Deep-Learning-Book/ch8.png" alt="U-Net as Generator for Pix2Pix Model"/>
-  <figcaption>U-Net as Generator for Pix2Pix Model</figcaption>
-</figure>
+{% include image.html url="/data/2021-01-14-Lessons-From-Writing-A-Deep-Learning-Book/ch8.png" description="U-Net as Generator for Pix2Pix Model" %}
 As a bonus, you will also 
 learn about the Pix2Pix model which is another well-known GAN model that automates image-to-image translations.
 
 9. Deep Reinforcement Learning
 This chapter is both a vary brief overview of the field of DRL, as well as a deep dive into the world of Deep Q-learning
 Networks (DQNs).
-<figure>
-  <img src="{{site.url}}/data/2021-01-14-Lessons-From-Writing-A-Deep-Learning-Book/ch9.png" alt="Pong Video Game"/>
-  <figcaption>Pong Video Game</figcaption>
-</figure>
+{% include image.html url="/data/2021-01-14-Lessons-From-Writing-A-Deep-Learning-Book/ch9.png" description="Pong Video Game" %}
 You'll learn to train an AI video game player for the pong video game using PyTorch and gym.
 
 10. Operationalizing PyTorch Models into Production
 In this longest and my favorite chapter, you will learn all about serving PyTorch models in production systems using
 Flask, Docker, as well as using TorchServe. You will learn about the various ways of using JIT-ed PyTorch models via TorchScript.
-<figure>
-  <img src="{{site.url}}/data/2021-01-14-Lessons-From-Writing-A-Deep-Learning-Book/ch10.png" alt="Tracing versus Scripting"/>
-  <figcaption>Tracing versus Scripting</figcaption>
-</figure> 
+{% include image.html url="/data/2021-01-14-Lessons-From-Writing-A-Deep-Learning-Book/ch10.png" description="Tracing versus Scripting" %}
 You will learn how to port PyTorch model into a C++ application as well as using PyTorch model in Tensorflow via the ONNX export format.
 Finally, this chapter walks through the various ways of working with PyTorch in the some of the most cloud computatig platforms.    
 
 11. Distributed Training
 This chapter focuses on demonstrating how to leverage performance gains in terms of model training time, with the help 
-of distributed deep learning model training in PyTorch.  
-<figure>
-  <img src="{{site.url}}/data/2021-01-14-Lessons-From-Writing-A-Deep-Learning-Book/ch11.png" alt="Distributed training logs"/>
-  <figcaption>Distributed training logs</figcaption>
-</figure>
+of distributed deep learning model training in PyTorch.
+{% include image.html url="/data/2021-01-14-Lessons-From-Writing-A-Deep-Learning-Book/ch11.png" description="Distributed training logs" %}  
 
 12. PyTorch and AutoML
 The NAS discussions done under chapters 3 and 5 aside, this chapter is a deep dive into the field of AutoML which covers both
 NAS as well as hyperparameter search.
-<figure>
-  <img src="{{site.url}}/data/2021-01-14-Lessons-From-Writing-A-Deep-Learning-Book/ch12.png" alt="AutoPyTorch Model Architecture"/>
-  <figcaption>AutoPyTorch Model Architecture</figcaption>
-</figure>
+{% include image.html url="/data/2021-01-14-Lessons-From-Writing-A-Deep-Learning-Book/ch12.png" description="AutoPyTorch Model Architecture" %}
 You will learn how to use AutoPyTorch to perform AutoML with PyTorch as well as Optuna, which 
 is a cool hyperparameter search library for PyTorch.
 
 13. PyTorch and Explainable AI
 In this chapter, you will learn to reason the model predictions to some extent, by dissecting the trained PyTorch model.
-<figure>
-  <img src="{{site.url}}/data/2021-01-14-Lessons-From-Writing-A-Deep-Learning-Book/ch13.png" alt="Overlaid Integrated Gradients"/>
-  <figcaption>Overlaid Integrated Gradients</figcaption>
-</figure>
+{% include image.html url="/data/2021-01-14-Lessons-From-Writing-A-Deep-Learning-Book/ch13.png" description="Overlaid Integrated Gradients" %}
 This chapter also
 explores a fantastic model interpretability library called Captum, which further helps investigate the inner workings of a trained model.
 
 14. Rapid Prototyping with PyTorch
 The final chapter of this book discusses two libraries - fast.ai and PyTorch Lightning - both of which are aimed at 
 making the process of training PyTorch models faster and simpler.
-<figure>
-  <img src="{{site.url}}/data/2021-01-14-Lessons-From-Writing-A-Deep-Learning-Book/ch14.png" alt="fast.ai training logs"/>
-  <figcaption>fast.ai training logs</figcaption>
-</figure>
+{% include image.html url="/data/2021-01-14-Lessons-From-Writing-A-Deep-Learning-Book/ch14.png" description="fast.ai training logs" %}
 You will learn to use both of these libraries and briefly 
 learn the distinct features offered by each of them. 
 
