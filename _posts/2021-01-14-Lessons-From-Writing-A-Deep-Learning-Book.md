@@ -22,7 +22,12 @@ I wrote this book with an applied / hands-on theme to it.
 And for doing so, I had to use some deep learning library as a substrate to build up the 
 knowledge base on. And therein comes the second question. Why isn't it **Mastering [TensorFlow](https://www.tensorflow.org/)** ? Although I am not significantly leaning towards one library 
 compared to another, this decision was a result of (i) [the recent trends indicating rising popularity and coverage of PyTorch](https://www.linkedin.com/posts/yann-lecun-0b999_tensorflow-pytorch-ai-activity-6683087808535523328-SrC_/?_l=en_US) 
-{% include image.html url="/data/2021-01-14-Lessons-From-Writing-A-Deep-Learning-Book/pytorch_vs_tensorflow.jpeg" description="PyTorch vs TensorFlow" %}
+<br>
+<figure>
+  <img src="{{site.url}}/data/2021-01-14-Lessons-From-Writing-A-Deep-Learning-Book/pytorch_vs_tensorflow.jpeg" alt="PyTorch vs TensorFlow"/>
+  <figcaption>PyTorch vs TensorFlow</figcaption>
+</figure>
+<br>
 as well as  (ii) p product preference expressed by the publisher ([Packt](https://www.packtpub.com/)).
 
 This book hence walks you through different facets of working on deep learning ranging from researching on model vision, text and other complex models, to 
