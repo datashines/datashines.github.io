@@ -21,11 +21,12 @@ I wrote this book with an applied / hands-on theme to it.
 
 And for doing so, I had to use some deep learning library as a substrate to build up the 
 knowledge base on. And therein comes the second question. Why isn't it **Mastering [TensorFlow](https://www.tensorflow.org/)** ? Although I am not significantly leaning towards one library 
-compared to another, this decision was a result of (i) [the recent trends indicating rising popularity and coverage of PyTorch](https://www.linkedin.com/posts/yann-lecun-0b999_tensorflow-pytorch-ai-activity-6683087808535523328-SrC_/?_l=en_US) as well as,
+compared to another, this decision was a result of 1 - [the recent trends indicating rising popularity and coverage of PyTorch](https://www.linkedin.com/posts/yann-lecun-0b999_tensorflow-pytorch-ai-activity-6683087808535523328-SrC_/?_l=en_US) as well as,
 <br>
 {% include image.html url="/data/2021-01-14-Lessons-From-Writing-A-Deep-Learning-Book/pytorch_vs_tensorflow.jpeg" description="PyTorch vs TensorFlow" %}
 <br>
-(ii) a product preference expressed by the publisher ([Packt](https://www.packtpub.com/)).
+
+2 - a product preference expressed by the publisher ([Packt](https://www.packtpub.com/)).
 
 This book hence walks you through different facets of working on deep learning ranging from researching on model vision, text and other complex models, to 
 deploying models in production environments, to developing fancy artistic generative AI models, and more, by using PyTorch as the toolkit of development. With this
@@ -91,7 +92,7 @@ a decent understanding of the publishing lifecycle - the different steps involve
 
 Following are the chapters in the book, briefly mentioning the contents within:
 
-1. Overview of Deep Learning using PyTorch 
+1 - Overview of Deep Learning using PyTorch 
 * This chapter revisits the fundamentals of deep learning - neurons, layers, activation functions, optimization schedules, and so on.
 <p style="text-align:center;">
  <figure>
@@ -101,31 +102,31 @@ Following are the chapters in the book, briefly mentioning the contents within:
 </p>
 * This chapter simultaneously also recaps the basics of PyTorch - tensor, torch modules, torch functions, etc.
 
-2. Combining CNNs and LSTMs
+2 - Combining CNNs and LSTMs
 * You will learn to build an image caption generator which is a combination of CNN and LSTM models.
 {% include image.html url="/data/2021-01-14-Lessons-From-Writing-A-Deep-Learning-Book/ch2.png" description="Image Captioning Model" %}
 * This chapter 
 is meant to build the momentum to gear up for the next chapters which extensively cover various neural architectures.
 
-3. Deep CNN Architectures
+3 - Deep CNN Architectures
 * One of the biggest chapters of the book, it covers a vast range of CNN model architectures ever since they were invented - 
 starting from LeNet all the way to EfficientNets, with a focus on image classification for the exercises.
 {% include image.html url="/data/2021-01-14-Lessons-From-Writing-A-Deep-Learning-Book/ch3.png" description="Convolutional Architecture Evolution" %} 
 
 
-4. Deep Recurrent Model Architectures
+4 - Deep Recurrent Model Architectures
 * Similar to the previous chapter, this one walks through the evolution of recurrent architectures, starting from vanilla RNNs,
 to LSTMs, GRUs and beyond.
 {% include image.html url="/data/2021-01-14-Lessons-From-Writing-A-Deep-Learning-Book/ch4.jpg" description="LSTM Cell Architecture" %}
 * You will also learn to train sentiment detection RNN and LSTM models using PyTorch along the way.
 
-5. Hybrid Advanced Models
+5 - Hybrid Advanced Models
 * This chapter is a conclusion to the discussion of model architectures. It picks up from where we end in chapter 3 and chapter 4.
 {% include image.html url="/data/2021-01-14-Lessons-From-Writing-A-Deep-Learning-Book/ch5.png" description="Transformer Architecture" %}
 * Continuing from chapter 4, we discuss transformers which have essentially rendered recurrent neural networks redundant. And 
 resuming from the neural architecture search (NAS) discussions at the end of chapter 4, we discuss RandWireNNs which is a well known NAS approach. 
 
-6. Music and Text Generation with PyTorch
+6 - Music and Text Generation with PyTorch
 * We enter into the exploration of generative artistic AI models in this chapter. First, we use the transformer model discussed in the
 previous chapter to generate meaningful text. We discuss text generation strategies such as greedy search, beam search, etc.
 {% include image.html url="/data/2021-01-14-Lessons-From-Writing-A-Deep-Learning-Book/ch6.png" description="Beam Search" %}
