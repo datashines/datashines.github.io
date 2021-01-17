@@ -164,8 +164,8 @@ Networks (DQNs).
 You will learn about the various ways of using JIT-ed PyTorch models via [TorchScript](https://pytorch.org/docs/stable/jit.html).
 {% include image.html url="/data/2021-01-14-Lessons-From-Writing-A-Deep-Learning-Book/ch10.png" description="Tracing versus Scripting" %}
 * You will learn how to port PyTorch model into a C++ application as well as using PyTorch model in Tensorflow via the [ONNX export format](https://onnx.ai/).
-Finally, this chapter walks through the various ways of working with PyTorch in the some of the most common cloud computing platforms 
-such as [AWS](https://aws.amazon.com/), [Google Cloud](https://cloud.google.com/) and [Azure](https://cloud.google.com/).    
+Finally, this chapter walks through the various ways of working with PyTorch on some of the most common cloud computing platforms 
+such as [AWS](https://aws.amazon.com/), [Google Cloud](https://cloud.google.com/) and [Azure](https://azure.microsoft.com/en-gb/).    
 
 **11 - Distributed Training**
 * This chapter focuses on demonstrating how to leverage performance gains in terms of model training time, with the help 
@@ -179,7 +179,7 @@ of distributed deep learning model training in PyTorch.
 
 
 **12 - PyTorch and AutoML**
-* The NAS discussions done under chapters 3 and 5 aside, this chapter is a deep dive into the field of 
+* The NAS discussions from chapters 3 and 5 aside, this chapter is a deep dive into the field of 
 [AutoML](https://www.automl.org/) which covers both NAS as well as hyperparameter search.
 <figure>
     <p style="text-align:center">
@@ -191,7 +191,7 @@ of distributed deep learning model training in PyTorch.
 [Optuna](https://optuna.org/), which is a cool hyperparameter search library for PyTorch.
 
 **13 - PyTorch and Explainable AI**
-* In this chapter, you will learn to reason the model predictions to some extent, by dissecting the trained PyTorch model.
+* In this chapter, you will learn to reason the model predictions to some extent, by dissecting a trained PyTorch model.
     <figure>
     <p style="text-align:center">
       <img src="{{site.url}}/data/2021-01-14-Lessons-From-Writing-A-Deep-Learning-Book/ch13.png" alt="Overlaid Integrated Gradients" width="50%"/>
