@@ -216,6 +216,22 @@ making the process of training PyTorch models faster and simpler.
 * You will learn to use both of these libraries and briefly 
 learn the distinct features offered by each of them. 
 
+## Who is this book for ?
+
+This book is for data scientists, machine learning researchers, and deep learning
+practitioners looking to implement advanced deep learning models using PyTorch. 
+Working knowledge of deep learning with Python programming is a plus to get the most out of this book.
+
+Hands-on Python experience as well as a basic knowledge of PyTorch is expected.
+Because most exercises in this book are in the form of notebooks, a working experience
+with Jupyter notebooks is expected. Some of the exercises in some of the chapters
+might require a GPU for faster model training and therefore having an NVIDIA GPU is a
+plus. 
+
+Finally, having registered accounts with cloud computing platforms such as AWS,
+Google Cloud and Microsoft Azure will be helpful to navigate parts of chapter 10 as well
+as facilitate distributed training under chapter 11 over several virtual machines.
+
 ## Buy your copy on Amazon !
 
 You can find the book in 
