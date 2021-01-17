@@ -224,8 +224,8 @@ Working knowledge of deep learning with Python programming is a plus to get the 
 
 Hands-on Python experience as well as a basic knowledge of PyTorch is expected.
 Because most exercises in this book are in the form of notebooks, a working experience
-with Jupyter notebooks is expected. Some of the exercises in some of the chapters
-might require a GPU for faster model training and therefore having an NVIDIA GPU is a
+with [Jupyter notebooks](https://jupyter.org/) is expected. Some of the exercises in some of the chapters
+might require a GPU for faster model training and therefore having an [NVIDIA GPU](https://developer.nvidia.com/cuda-gpus) is a
 plus. 
 
 Finally, having registered accounts with cloud computing platforms such as AWS,
