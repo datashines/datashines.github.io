@@ -96,9 +96,9 @@ Following are the chapters in the book, briefly mentioning the contents within t
 
     <figure>
     <p style="text-align:center">
-      <img src="{{site.url}}/data/2021-01-14-Lessons-From-Writing-A-Deep-Learning-Book/ch1.png" alt="Popular Deep Learning Models" width="50%"/>
+      <img src="{{site.url}}/data/2021-01-14-Lessons-From-Writing-A-Deep-Learning-Book/ch1.png" alt="Types Of Deep Learning Models" width="50%"/>
       </p>
-      <figcaption><i>Popular Deep Learning Models</i></figcaption>
+      <figcaption><i>Types Of Deep Learning Models</i></figcaption>
     </figure> 
 
 * This chapter simultaneously also recaps the basics of PyTorch - tensor, torch modules, torch functions, etc.
