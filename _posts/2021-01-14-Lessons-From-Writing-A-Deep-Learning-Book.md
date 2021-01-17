@@ -26,7 +26,7 @@ compared to another, this decision was a result of 1 - [the recent trends indica
 {% include image.html url="/data/2021-01-14-Lessons-From-Writing-A-Deep-Learning-Book/pytorch_vs_tensorflow.jpeg" description="PyTorch vs TensorFlow" %}
 <br>2 - a product preference expressed by the publisher ([Packt](https://www.packtpub.com/)).
 
-This book hence walks you through different facets of working on deep learning ranging from researching on model vision, text and other complex models, to 
+This book hence walks you through different facets of working on deep learning ranging from researching on vision, text and other complex models, to 
 deploying models in production environments, to developing fancy artistic generative AI models, and more, by using PyTorch as the toolkit of development. With this
 book, you will both get a hands-on deep learning experience as well as learn PyTorch as a deep learning framework, in some depth. 
 
@@ -35,8 +35,8 @@ book, you will both get a hands-on deep learning experience as well as learn PyT
 
 There are already a few good resources for learning PyTorch such as the [Deep Learning with PyTorch book](https://www.amazon.co.uk/Deep-Learning-Pytorch-Eli-Stevens/dp/1617295264)
 or the [PyTorch website](https://pytorch.org/tutorials/) itself. However, there isn't a single resource that provides a decent coverage of various deep learning topics that can 
-be explored using PyTorch. In the end, we end up spending endless hours scanning the [PyTorch forum](https://discuss.pytorch.org/) to get PyTorch to work on our area of deep learning, 
-if the above-mentioned resources do not cover it properly. Furthermore, there are tons of blog posts written on PyTorch topics that are not clearly explained in the original resource, and it
+be explored using PyTorch. More often than not, we end up spending endless hours scanning the [PyTorch forum](https://discuss.pytorch.org/) to get PyTorch to work on our area of deep learning, 
+if the traditional resources do not cover it properly. Furthermore, there are tons of blog posts written on PyTorch topics that are not clearly explained in the original resource, and it
 can be hard to find the good ones as they are all scattered across different mediums. For instance, the documentation around distributed training with PyTorch is not easy to follow and 
 hence there are blog posts like this - https://leimao.github.io/blog/PyTorch-Distributed-Training/ to help us understand.
 
@@ -49,8 +49,8 @@ deep learning developments.
 ## The journey 
 
 I began working on this book in May, 2020 with [Packt](https://www.packtpub.com/). As this is a first edition, I decided 
-together with the publisher the contents to place within the book. With the initial 2-line summaries of each chapter, and 
-more coarsely, sections, in place, I started writing chapter drafts. I used [Google Docs](https://docs.google.com/document/u/0/) 
+together with the publisher the contents to place within the book. With the initial 2-line summaries of each chapter
+ in place, I started writing chapter drafts. I used [Google Docs](https://docs.google.com/document/u/0/) 
 as my writing tool.
 For writing the chapters, I always did some initial research on the contents to be put in for that chapter. Different chapters 
 demanded different volumes of time. I remember spending quite some time on reading up for Chapter 9, which was all about Deep Reinforcement Learning
