@@ -68,14 +68,14 @@ who currently heads the Electrical Engineering Department at IIT Roorkee. I am a
 
 ## The experience
 
-Writing a book is not easy. My previous writing venture was for a second edition of a book, together with another author. 
+Writing a book is not easy. My previous writing venture was for a [second edition of a book](https://datashines.github.io/My-First-Book/), together with another author. 
 This time, it was just me writing a first edition - and this is truly a different ball game. It was quite intense. Each chapter
-had a deadline attached to it, which good for avoiding procrastination but would occasionally be overwhelming especially because
+had a deadline attached to it, which was good for avoiding procrastination but would occasionally be overwhelming especially because
 I was writing it besides a full-time job.
 
 A key learning for me has been that this whole process has forced me to learn the topic in greater details. One really needs to
 go several extra miles than the basic understanding of a topic in order to be able to explain it to others. One needs to make 
-sure that all the codes across all the chapters work and with reproducibility, one needs to pay attention to the minuscule details while
+sure that [all the codes across all the chapters](https://github.com/PacktPublishing/Mastering-PyTorch) work and with reproducibility; one needs to pay attention to the minuscule details while
  illustrating a concept using a diagram, and so on. Besides my own 
 learning, I also felt a genuine satisfaction of giving it back, merely because I have been in that situation where I wished I 
 knew of a resource on a topic that could gradually speed me up on that topic. 
@@ -83,12 +83,13 @@ knew of a resource on a topic that could gradually speed me up on that topic.
 Finally, I have also gained a rich experience of technical writing along this journey. I am better able to decide what should be 
 covered in the content, how it should be conveyed, why is it important, what should be the order of topics to make the reading coherent,
 how do we intertwine illustrations / diagrams / codes / exercises within the text, and so on. Furthermore, I have gained 
-a decent understanding of the publishing lifecycle - the different steps involved, from inception, all the way to an Amazon book link.  
+a decent understanding of the publishing lifecycle - the different steps involved, from inception, all the way to an 
+[Amazon](https://www.amazon.com/) book link.  
 
 
 ## What you'll learn ?
 
-Following are the chapters in the book, briefly mentioning the contents within:
+Following are the chapters in the book, briefly mentioning the contents within them:
 
 **1 - Overview of Deep Learning using PyTorch** 
 * This chapter revisits the fundamentals of deep learning - neurons, layers, activation functions, optimization schedules, and so on.
@@ -108,7 +109,7 @@ Following are the chapters in the book, briefly mentioning the contents within:
 - This chapter is meant to build the momentum to gear up for the next chapters which extensively cover various neural architectures.
 
 **3 - Deep CNN Architectures**
-- One of the biggest chapters of the book, it covers a vast range of CNN model architectures ever since they were invented - 
+- Being one of the biggest chapters of the book, it covers a vast range of CNN model architectures ever since they were invented - 
 starting from LeNet all the way to EfficientNets, with a focus on image classification for the exercises.
 {% include image.html url="/data/2021-01-14-Lessons-From-Writing-A-Deep-Learning-Book/ch3.png" description="Convolutional Architecture Evolution" %} 
 
@@ -129,7 +130,7 @@ resuming from the neural architecture search (NAS) discussions at the end of cha
 previous chapter to generate meaningful text. We discuss text generation strategies such as greedy search, beam search, etc.
 {% include image.html url="/data/2021-01-14-Lessons-From-Writing-A-Deep-Learning-Book/ch6.png" description="Beam Search" %}
 * In the second
-half of the chapter, we train an AI music composer that should learn to generate Mozart-like compositions. Here is sample generated 
+half of the chapter, we train an AI music composer that should learn to generate Mozart-like compositions. Here is an audio sample generated 
 in the chapter exercise:
 [Generated Clip](/data/2021-01-14-Lessons-From-Writing-A-Deep-Learning-Book/ch6.mp3) 
 
@@ -139,13 +140,13 @@ the style of one image with the content of another.
 {% include image.html url="/data/2021-01-14-Lessons-From-Writing-A-Deep-Learning-Book/ch7.png" description="Neural Style Transfer" %}
 
 **8 - Deep Convolutional GANs**
-* Concluding the generative models discussion, you will learn to build a DCGAN model in PyTorch on the MNIST dataset.
+* Concluding the generative models discussion, you will learn to build a DCGAN model in PyTorch on the [MNIST dataset](http://yann.lecun.com/exdb/mnist/).
 {% include image.html url="/data/2021-01-14-Lessons-From-Writing-A-Deep-Learning-Book/ch8.png" description="U-Net as Generator for Pix2Pix Model" %}
 * As a bonus, you will also 
-learn about the Pix2Pix model which is another well-known GAN model that automates image-to-image translations.
+learn about the [Pix2Pix model](https://phillipi.github.io/pix2pix/) which is another well-known GAN model that automates image-to-image translations.
 
 **9 - Deep Reinforcement Learning**
-* This chapter is both a vary brief overview of the field of DRL, as well as a deep dive into the world of Deep Q-learning
+* This chapter is both a very brief overview of the field of RL, as well as a deep dive into the world of Deep Q-learning
 Networks (DQNs).
 
     <figure>
@@ -155,14 +156,16 @@ Networks (DQNs).
       <figcaption><i>Pong Video Game</i></figcaption>
     </figure> 
 
-* You'll learn to train an AI video game player for the pong video game using PyTorch and gym.
+* You'll learn to train an AI video game player for the [pong video game](https://en.wikipedia.org/wiki/Pong) using PyTorch and [gym](https://gym.openai.com/).
 
 **10 - Operationalizing PyTorch Models into Production**
 * In this longest and my favorite chapter, you will learn all about serving PyTorch models in production systems using
-Flask, Docker, as well as using TorchServe. You will learn about the various ways of using JIT-ed PyTorch models via TorchScript.
+[Flask](https://flask.palletsprojects.com/en/1.1.x/), [Docker](https://www.docker.com/), as well as using [TorchServe](https://pytorch.org/serve/). 
+You will learn about the various ways of using JIT-ed PyTorch models via [TorchScript](https://pytorch.org/docs/stable/jit.html).
 {% include image.html url="/data/2021-01-14-Lessons-From-Writing-A-Deep-Learning-Book/ch10.png" description="Tracing versus Scripting" %}
-* You will learn how to port PyTorch model into a C++ application as well as using PyTorch model in Tensorflow via the ONNX export format.
-Finally, this chapter walks through the various ways of working with PyTorch in the some of the most cloud computatig platforms.    
+* You will learn how to port PyTorch model into a C++ application as well as using PyTorch model in Tensorflow via the [ONNX export format](https://onnx.ai/).
+Finally, this chapter walks through the various ways of working with PyTorch in the some of the most common cloud computing platforms 
+such as [AWS](https://aws.amazon.com/), [Google Cloud](https://cloud.google.com/) and [Azure](https://cloud.google.com/).    
 
 **11 - Distributed Training**
 * This chapter focuses on demonstrating how to leverage performance gains in terms of model training time, with the help 
@@ -176,16 +179,16 @@ of distributed deep learning model training in PyTorch.
 
 
 **12 - PyTorch and AutoML**
-* The NAS discussions done under chapters 3 and 5 aside, this chapter is a deep dive into the field of AutoML which covers both
-NAS as well as hyperparameter search.
+* The NAS discussions done under chapters 3 and 5 aside, this chapter is a deep dive into the field of 
+[AutoML](https://www.automl.org/) which covers both NAS as well as hyperparameter search.
 <figure>
     <p style="text-align:center">
       <img src="{{site.url}}/data/2021-01-14-Lessons-From-Writing-A-Deep-Learning-Book/ch12.png" alt="AutoPyTorch Model Architecture" width="50%"/>
      </p>
       <figcaption><i>AutoPyTorch Model Architecture</i></figcaption>
     </figure>
-* You will learn how to use AutoPyTorch to perform AutoML with PyTorch as well as Optuna, which 
-is a cool hyperparameter search library for PyTorch.
+* You will learn how to use [AutoPyTorch](https://www.automl.org/automl/autopytorch/) to perform AutoML with PyTorch as well as 
+[Optuna](https://optuna.org/), which is a cool hyperparameter search library for PyTorch.
 
 **13 - PyTorch and Explainable AI**
 * In this chapter, you will learn to reason the model predictions to some extent, by dissecting the trained PyTorch model.
@@ -196,11 +199,12 @@ is a cool hyperparameter search library for PyTorch.
       <figcaption><i>Overlaid Integrated Gradients</i></figcaption>
     </figure>
 
-* This chapter also
-explores a fantastic model interpretability library called Captum, which further helps investigate the inner workings of a trained model.
+* This chapter also explores a fantastic model interpretability library called 
+[Captum](https://captum.ai/), which further helps investigate the inner workings of a trained model.
 
 **14 - Rapid Prototyping with PyTorch**
-* The final chapter of this book discusses two libraries - fast.ai and PyTorch Lightning - both of which are aimed at 
+* The final chapter of this book discusses two libraries - [fast.ai](https://docs.fast.ai/) and 
+[PyTorch Lightning](https://www.pytorchlightning.ai/) - both of which are aimed at 
 making the process of training PyTorch models faster and simpler.
     <figure>
     <p style="text-align:center">
