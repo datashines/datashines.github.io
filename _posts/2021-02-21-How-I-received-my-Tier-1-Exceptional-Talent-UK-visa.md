@@ -21,9 +21,9 @@ visa in the first place. In February, 2019, I received a LinkedIn message from a
 
 <figure>
 <p style="text-align:center">
-  <img src="{{site.url}}/data/2021-02-21-How-I-received-my-Tier-1-Exceptional-Talent-UK-visa/antler_linkedin.png" alt="Antler Linkedin" width="50%"/>
+  <img src="{{site.url}}/data/2021-02-21-How-I-received-my-Tier-1-Exceptional-Talent-UK-visa/antler_linkedin.png" alt="Antler Linkedin" width="80%"/>
   </p>
-  <figcaption><i>fast.ai training logs</i></figcaption>
+  <figcaption><i>Antler Linkedin Message</i></figcaption>
 </figure>
     
 I found this an interesting opportunity and moved the conversation forward. I managed to clear the interviews and was offered to be a founder in their first London-cohort.
