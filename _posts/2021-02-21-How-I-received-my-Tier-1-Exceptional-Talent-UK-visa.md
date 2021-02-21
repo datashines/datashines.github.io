@@ -102,7 +102,7 @@ You can see my filled form below, which I emailed on 15th July, exactly 28 days 
 </object>
 
 As you can see, I addressed precisely the points of refusal outlined in the Proforma. Having little hopes of getting the decision turned around, I received the email
-form Home Office stating that I have been granted the endorsement, as can be seen at the top of this blog.
+from the Home Office stating that I have been granted the endorsement, as can be seen at the top of this blog.
 
 
 ## Closing words
@@ -110,6 +110,6 @@ form Home Office stating that I have been granted the endorsement, as can be see
 Once I received the endorsement letter, I started the actual visa application. Once again, you can find a detailed explanation of the visa
 application process on the [UK Government website](https://www.gov.uk/global-talent). Both the visa application fee as well as the endorsement fee are 
 quite significant. Additionally you need to pay for a health surcharge for the number of years you want to get this visa for (3 to 5 years). I went with 5 years just 
-to play it safe, although with this visa, you can get an ILR by the end of 3 years (please check if this rule changes with time !!). 
+to play it safe, although with this visa, you can get an ILR by the end of 3 years (please check if this rule changes with time). 
 
 I hope this blog detailing my personal journey of a successful tier-1 visa application will help you in yours in terms of the documentation as well as following the process. Thanks for reading !!
