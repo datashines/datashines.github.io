@@ -92,7 +92,7 @@ understanding that each document in the checklist must be at most 2 pages long, 
 ## Tech Nation Endorsement Review
 
 I immediately started looking for a recourse. And as you can see in the rejection email, there is a provision to challenge the decision 
-by requesting an [Endorsement Review](https://www.gov.uk/government/publications/endorsement-review-for-global-talent) with 28 days of the decision. Essentially I needed to
+by requesting an [Endorsement Review](https://www.gov.uk/government/publications/endorsement-review-for-global-talent) within 28 days of the decision. Essentially I needed to
 fill up an [Endorsement Review form](https://www.gov.uk/government/publications/global-talent-and-tier-1-exceptional-talent-endorsement-review-form) and email it to the Home Office. 
 You can see my filled form below, which I emailed on 15th July, exactly 28 days after receiving the rejection email:
 
