@@ -28,12 +28,11 @@ visa in the first place. In February, 2019, I received a LinkedIn message from a
     
 I found this an interesting opportunity and moved the conversation forward. I managed to clear the interviews and was offered to be a founder in their first London-cohort.
 At the time, I was working in London with a tier-2 general visa. Because this visa is sponsored by an employer, and because Antler is not an employer per se, I needed to 
-switch to a tier-1 visa to be able to function as a founder in their cohort program. This is where my story for applying for a tier-1 visa started. And with the help of
-the consultations from Antler, I started applying for an Exceptional Talent Tier-1 UK Visa.
+switch to a tier-1 visa to be able to function as a founder in their cohort program. This is where my story for applying for a tier-1 visa started. And with the help of consultations from Antler, I started applying for an Exceptional Talent Tier-1 UK Visa.
  
 ## Visa application overview
 
-In this section, I am detailing all that I did while applying for the visa. Firstly, the clarity of documentation around this topic on the [UK Government website](https://www.gov.uk/global-talent) is commendable. 
+Firstly, the clarity of documentation around visa application on the [UK Government website](https://www.gov.uk/global-talent) is commendable. 
 I highly encourage you to spend hours, even days, reading through all of the related pages on the website. Please also note that the contents on the website 
 have changed significantly from 2019 to 2021, but the core documentation needed for visa application is the same.
 
