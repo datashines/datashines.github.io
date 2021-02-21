@@ -19,12 +19,12 @@ about the process. I am hence writing this blog to elaborate my visa application
 Although this section might not be particularly useful for your visa application process, I will briefly mention why I needed to apply for this
 visa in the first place. In February, 2019, I received a LinkedIn message from a partner at [Antler](https://www.antler.co/), which is a well known startup accelerator.
 
-    <figure>
-    <p style="text-align:center">
-      <img src="{{site.url}}/data/2021-02-21-How-I-received-my-Tier-1-Exceptional-Talent-UK-visa/antler_linkedin.png" alt="Antler Linkedin" width="50%"/>
-      </p>
-      <figcaption><i>fast.ai training logs</i></figcaption>
-    </figure>
+<figure>
+<p style="text-align:center">
+  <img src="{{site.url}}/data/2021-02-21-How-I-received-my-Tier-1-Exceptional-Talent-UK-visa/antler_linkedin.png" alt="Antler Linkedin" width="50%"/>
+  </p>
+  <figcaption><i>fast.ai training logs</i></figcaption>
+</figure>
     
 I found this an interesting opportunity and moved the conversation forward. I managed to clear the interviews and was offered to be a founder in their first London-cohort.
 At the time, I was working in London with a tier-2 general visa. Because this visa is sponsored by an employer, and because Antler is not an employer per se, I needed to 
