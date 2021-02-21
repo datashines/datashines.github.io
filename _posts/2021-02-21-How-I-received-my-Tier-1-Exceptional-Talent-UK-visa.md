@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How I received my Tier-1 Exceptional Talent UK Visa
+title: How I got my Tier-1 Exceptional Talent UK Visa
 ---
 
 On 16th August, 2019, I received the confirmation letter regarding my tier-1 visa endorsement from the UK Home Office:
