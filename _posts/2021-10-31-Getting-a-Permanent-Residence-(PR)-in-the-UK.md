@@ -94,8 +94,8 @@ and listed the various documents that I provided in my application.
      
 #### Passport with visa stamps (sample from my old passport)
 
-<object data="{{ site.baseurl }}/data/2021-10-31-Getting-a-Permanent-Residence-(PR)-in-the-UK/Cover-Letter.pdf" width="750px" height="750px">
-    <embed src="{{ site.baseurl }}/data/2021-10-31-Getting-a-Permanent-Residence-(PR)-in-the-UK/Cover-Letter.pdf">
+<object data="{{ site.baseurl }}/data/2021-10-31-Getting-a-Permanent-Residence-(PR)-in-the-UK/passport_old_with_visa_pages.pdf" width="750px" height="750px">
+    <embed src="{{ site.baseurl }}/data/2021-10-31-Getting-a-Permanent-Residence-(PR)-in-the-UK/passport_old_with_visa_pages.pdf">
     </embed>
 </object>
 
@@ -124,12 +124,6 @@ and listed the various documents that I provided in my application.
 #### Letter from employer confirming authenticity of payslips
 <object data="{{ site.baseurl }}/data/2021-10-31-Getting-a-Permanent-Residence-(PR)-in-the-UK/PayslipAuthenticityLetter.pdf" width="750px" height="750px">
     <embed src="{{ site.baseurl }}/data/2021-10-31-Getting-a-Permanent-Residence-(PR)-in-the-UK/PayslipAuthenticityLetter.pdf">
-    </embed>
-</object>
-
-#### P60s from last 3 years (sample from 2020)
-<object data="{{ site.baseurl }}/data/2021-10-31-Getting-a-Permanent-Residence-(PR)-in-the-UK/P60-2020.pdf" width="750px" height="750px">
-    <embed src="{{ site.baseurl }}/data/2021-10-31-Getting-a-Permanent-Residence-(PR)-in-the-UK/P60-2020.pdf">
     </embed>
 </object>
 
