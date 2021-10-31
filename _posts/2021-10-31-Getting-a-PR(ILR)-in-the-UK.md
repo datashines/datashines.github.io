@@ -1,11 +1,10 @@
 ---
 layout: post
-title: Getting an Indefinite Leave to Remain (ILR) in the UK
+title: Getting a PR (Permanent Residence) in the UK
 ---
 
-When you come and live in the UK for a while, at some point, you can become eligible to apply for the settlement status. 
-This is equivalent to getting a Permanent Residence (PR) or as they call it here : Indefinite Leave to Remain (ILR).
-On 23rd September, 2021, I received the confirmation letter from the Home Office, UK regarding the approval of my ILR:
+On 23rd September, 2021, I received the confirmation letter from the Home Office, UK regarding the approval of my 
+Permanent Residence (PR) a.k.a Indefinite Leave to Remain (ILR) a.k.a Settled status:
 
 <object data="{{ site.baseurl }}/data/2021-02-21-How-I-received-my-Tier-1-Exceptional-Talent-UK-visa/HomeOfficeLetter.pdf" width="750px" height="750px">
     <embed src="{{ site.baseurl }}/data/2021-02-21-How-I-received-my-Tier-1-Exceptional-Talent-UK-visa/HomeOfficeLetter.pdf">
