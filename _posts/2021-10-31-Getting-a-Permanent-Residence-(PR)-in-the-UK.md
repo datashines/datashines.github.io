@@ -6,8 +6,8 @@ title: Getting a Permanent Residence (PR) in the UK
 On 23rd September, 2021, I received the confirmation letter from the Home Office, UK regarding the approval of my 
 Permanent Residence (PR) a.k.a Indefinite Leave to Remain (ILR) a.k.a Settled status:
 
-<object data="{{ site.baseurl }}/data/2021-02-21-How-I-received-my-Tier-1-Exceptional-Talent-UK-visa/HomeOfficeLetter.pdf" width="750px" height="750px">
-    <embed src="{{ site.baseurl }}/data/2021-02-21-How-I-received-my-Tier-1-Exceptional-Talent-UK-visa/HomeOfficeLetter.pdf">
+<object data="{{ site.baseurl }}/data/2021-10-31-Getting-a-Permanent-Residence-(PR)-in-the-UK/ilrsucess.pdf" width="750px" height="750px">
+    <embed src="{{ site.baseurl }}/data/2021-10-31-Getting-a-Permanent-Residence-(PR)-in-the-UK/ilrsucess.pdf">
     </embed>
 </object>
 
