@@ -56,7 +56,7 @@ of the most popular routes are
 Please go through the [official website](https://www.gov.uk/english-language) to understand what might be applicable for you.
 
 #### My case
-Thankfully, why applying for my tier-2 visa in 2018, I had to prove my English language ability. For that, I had used my 
+Thankfully, while applying for my tier-2 visa in 2018, I had to prove my English language ability. For that, I had used my 
 University degrees both from Undergrad as well as Grad Uni. Essentially, I had received a certificate from NARIC (the then government 
 body for certifying English language levels) certifying my language levels. And I was able to re-use that certificate again
 this time for my ILR application.
