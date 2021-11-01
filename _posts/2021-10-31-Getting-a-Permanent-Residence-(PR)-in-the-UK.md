@@ -52,7 +52,8 @@ not need 45 minutes to finish. It took less than 5 minutes in my case.
 This is the second critical requirement for the ILR application. There are different ways of proving your English language ability. Two
 of the most popular routes are
 - Using university degrees ensuring English was the main language of education, or
-- Taking one of those English language tests (IELTS)
+- Taking one of those English language tests (IELTS).
+
 Please go through the [official website](https://www.gov.uk/english-language) to understand what might be applicable for you.
 
 #### My case
