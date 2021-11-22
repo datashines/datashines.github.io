@@ -6,7 +6,7 @@
 name: DataShines
 
 # Short bio or description (displayed in the header)
-description: Where Data Science Shines
+description: Useful ML/DS/misc stuff
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/datashines/datashines.github.io/master/images/logo1.png
@@ -75,6 +75,7 @@ gems:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
   - jekyll-gist
+  - jekyll-seo-tag
 
 # Exclude these files from your production _site
 exclude:
