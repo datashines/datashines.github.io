@@ -113,4 +113,4 @@ Here is a glimpse of what the book is about:
 <object data="{{ site.baseurl }}/data/2020-03-07-My-First-Book/TheSupervisedLearningWorkshop.pdf" width="750px" height="750px">
     <embed src="{{ site.baseurl }}/data/2020-03-07-My-First-Book/TheSupervisedLearningWorkshop.pdf">
 </object>
-Download this pdf [here](https://datashines.github.io/data/2020-03-07-My-First-Book/TheSupervisedLearningWorkshop.pdf)
+_Download this pdf_ [here](https://datashines.github.io/data/2020-03-07-My-First-Book/TheSupervisedLearningWorkshop.pdf)

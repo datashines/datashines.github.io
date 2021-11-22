@@ -9,7 +9,7 @@ Permanent Residence (PR) a.k.a Indefinite Leave to Remain (ILR) a.k.a Settled st
 <object data="{{ site.baseurl }}/data/2021-10-31-Getting-a-Permanent-Residence-(PR)-in-the-UK/ilrsucess.pdf" width="750px" height="750px">
     <embed src="{{ site.baseurl }}/data/2021-10-31-Getting-a-Permanent-Residence-(PR)-in-the-UK/ilrsucess.pdf">
 </object>
-Download this pdf [here](https://datashines.github.io/data/2021-10-31-Getting-a-Permanent-Residence-(PR)-in-the-UK/ilrsucess.pdf)
+_Download this pdf_ [here](https://datashines.github.io/data/2021-10-31-Getting-a-Permanent-Residence-(PR)-in-the-UK/ilrsucess.pdf)
 
 And subsequently on 29th September, 2021 I received my Biometric Residence Permit (BRP) card. In this blog post, I am
 going to elaborately specify the steps and attach the various documents that I gathered to make my application. Hope this 
@@ -91,21 +91,21 @@ and listed the various documents that I provided in my application.
 <object data="{{ site.baseurl }}/data/2021-10-31-Getting-a-Permanent-Residence-(PR)-in-the-UK/Cover-Letter.pdf" width="750px" height="750px">
     <embed src="{{ site.baseurl }}/data/2021-10-31-Getting-a-Permanent-Residence-(PR)-in-the-UK/Cover-Letter.pdf">
 </object>
-Download this pdf [here](https://datashines.github.io/data/2021-10-31-Getting-a-Permanent-Residence-(PR)-in-the-UK/Cover-Letter.pdf)
+_Download this pdf_ [here](https://datashines.github.io/data/2021-10-31-Getting-a-Permanent-Residence-(PR)-in-the-UK/Cover-Letter.pdf)
      
 #### Passport with visa stamps (sample from my old passport)
 
 <object data="{{ site.baseurl }}/data/2021-10-31-Getting-a-Permanent-Residence-(PR)-in-the-UK/passport_old_with_visa_pages.pdf" width="750px" height="750px">
     <embed src="{{ site.baseurl }}/data/2021-10-31-Getting-a-Permanent-Residence-(PR)-in-the-UK/passport_old_with_visa_pages.pdf">
 </object>
-Download this pdf [here](https://datashines.github.io/data/2021-10-31-Getting-a-Permanent-Residence-(PR)-in-the-UK/passport_old_with_visa_pages.pdf)
+_Download this pdf_ [here](https://datashines.github.io/data/2021-10-31-Getting-a-Permanent-Residence-(PR)-in-the-UK/passport_old_with_visa_pages.pdf)
 
 #### Consent to let HMRC conduct verification checks
 
 <object data="{{ site.baseurl }}/data/2021-10-31-Getting-a-Permanent-Residence-(PR)-in-the-UK/family_consent_signed.pdf" width="750px" height="750px">
     <embed src="{{ site.baseurl }}/data/2021-10-31-Getting-a-Permanent-Residence-(PR)-in-the-UK/family_consent_signed.pdf">
 </object>
-Download this pdf [here](https://datashines.github.io/data/2021-10-31-Getting-a-Permanent-Residence-(PR)-in-the-UK/family_consent_signed.pdf)
+_Download this pdf_ [here](https://datashines.github.io/data/2021-10-31-Getting-a-Permanent-Residence-(PR)-in-the-UK/family_consent_signed.pdf)
 
 #### Previous Biometric Residence Permits (tier 1 and tier 2)
 (self explanatory)
@@ -114,7 +114,7 @@ Download this pdf [here](https://datashines.github.io/data/2021-10-31-Getting-a-
 <object data="{{ site.baseurl }}/data/2021-10-31-Getting-a-Permanent-Residence-(PR)-in-the-UK/HomeOfficeLetter.pdf" width="750px" height="750px">
     <embed src="{{ site.baseurl }}/data/2021-10-31-Getting-a-Permanent-Residence-(PR)-in-the-UK/HomeOfficeLetter.pdf">
 </object>
-Download this pdf [here](https://datashines.github.io/data/2021-10-31-Getting-a-Permanent-Residence-(PR)-in-the-UK/HomeOfficeLetter.pdf)
+_Download this pdf_ [here](https://datashines.github.io/data/2021-10-31-Getting-a-Permanent-Residence-(PR)-in-the-UK/HomeOfficeLetter.pdf)
 
 #### Payslips from last 6 months
 (self explanatory)
@@ -126,13 +126,13 @@ Download this pdf [here](https://datashines.github.io/data/2021-10-31-Getting-a-
 <object data="{{ site.baseurl }}/data/2021-10-31-Getting-a-Permanent-Residence-(PR)-in-the-UK/PayslipAuthenticityLetter.pdf" width="750px" height="750px">
     <embed src="{{ site.baseurl }}/data/2021-10-31-Getting-a-Permanent-Residence-(PR)-in-the-UK/PayslipAuthenticityLetter.pdf">
 </object>
-Download this pdf [here](https://datashines.github.io/data/2021-10-31-Getting-a-Permanent-Residence-(PR)-in-the-UK/PayslipAuthenticityLetter.pdf)
+_Download this pdf_ [here](https://datashines.github.io/data/2021-10-31-Getting-a-Permanent-Residence-(PR)-in-the-UK/PayslipAuthenticityLetter.pdf)
 
 #### P60s from last 3 years (sample from 2020)
 <object data="{{ site.baseurl }}/data/2021-10-31-Getting-a-Permanent-Residence-(PR)-in-the-UK/P60-2020.pdf" width="750px" height="750px">
     <embed src="{{ site.baseurl }}/data/2021-10-31-Getting-a-Permanent-Residence-(PR)-in-the-UK/P60-2020.pdf">
 </object>
-Download this pdf [here](https://datashines.github.io/data/2021-10-31-Getting-a-Permanent-Residence-(PR)-in-the-UK/P60-2020.pdf)
+_Download this pdf_ [here](https://datashines.github.io/data/2021-10-31-Getting-a-Permanent-Residence-(PR)-in-the-UK/P60-2020.pdf)
 
 #### Employment contract
 (self explanatory)
@@ -141,7 +141,7 @@ Download this pdf [here](https://datashines.github.io/data/2021-10-31-Getting-a-
 <object data="{{ site.baseurl }}/data/2021-10-31-Getting-a-Permanent-Residence-(PR)-in-the-UK/Reference_Letter_From_Employer.pdf" width="750px" height="750px">
     <embed src="{{ site.baseurl }}/data/2021-10-31-Getting-a-Permanent-Residence-(PR)-in-the-UK/Reference_Letter_From_Employer.pdf">
 </object>
-Download this pdf [here](https://datashines.github.io/data/2021-10-31-Getting-a-Permanent-Residence-(PR)-in-the-UK/Reference_Letter_From_Employer.pdf)
+_Download this pdf_ [here](https://datashines.github.io/data/2021-10-31-Getting-a-Permanent-Residence-(PR)-in-the-UK/Reference_Letter_From_Employer.pdf)
 
 #### Documents related to life events
 (this section is specific for every person, and hence my documents won't be helpful, take your own judgement)
@@ -150,7 +150,7 @@ Download this pdf [here](https://datashines.github.io/data/2021-10-31-Getting-a-
 <object data="{{ site.baseurl }}/data/2021-10-31-Getting-a-Permanent-Residence-(PR)-in-the-UK/NARIC_English_Language_Certificate.pdf" width="750px" height="750px">
     <embed src="{{ site.baseurl }}/data/2021-10-31-Getting-a-Permanent-Residence-(PR)-in-the-UK/NARIC_English_Language_Certificate.pdf">
 </object>
-Download this pdf [here](https://datashines.github.io/data/2021-10-31-Getting-a-Permanent-Residence-(PR)-in-the-UK/NARIC_English_Language_Certificate.pdf)
+_Download this pdf_ [here](https://datashines.github.io/data/2021-10-31-Getting-a-Permanent-Residence-(PR)-in-the-UK/NARIC_English_Language_Certificate.pdf)
 
 #### Degree certificates
 (self explanatory)
