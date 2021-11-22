@@ -8,7 +8,7 @@ On 16th August, 2019, I received the confirmation letter regarding my tier-1 vis
 <object data="{{ site.baseurl }}/data/2021-02-21-How-I-received-my-Tier-1-Exceptional-Talent-UK-visa/HomeOfficeLetter.pdf" width="750px" height="750px">
     <embed src="{{ site.baseurl }}/data/2021-02-21-How-I-received-my-Tier-1-Exceptional-Talent-UK-visa/HomeOfficeLetter.pdf">
 </object>
-Download this pdf [here](https://datashines.github.io/data/2021-02-21-How-I-received-my-Tier-1-Exceptional-Talent-UK-visa/HomeOfficeLetter.pdf)
+_Download this pdf_ [here](https://datashines.github.io/data/2021-02-21-How-I-received-my-Tier-1-Exceptional-Talent-UK-visa/HomeOfficeLetter.pdf)
 
 Ever since receiving the Tier-1 visa, I have received numerous messages from people in the tech community applying for this visa asking 
 about the process. I am hence writing this blog to elaborate my visa application story.
@@ -55,7 +55,7 @@ You can find below my downloaded pre-filled Tech Nation application form:
 <object data="{{ site.baseurl }}/data/2021-02-21-How-I-received-my-Tier-1-Exceptional-Talent-UK-visa/TechNationApplicationForm.pdf" width="750px" height="750px">
     <embed src="{{ site.baseurl }}/data/2021-02-21-How-I-received-my-Tier-1-Exceptional-Talent-UK-visa/TechNationApplicationForm.pdf">
 </object>
-Download this pdf [here](https://datashines.github.io/data/2021-02-21-How-I-received-my-Tier-1-Exceptional-Talent-UK-visa/TechNationApplicationForm.pdf)
+_Download this pdf_ [here](https://datashines.github.io/data/2021-02-21-How-I-received-my-Tier-1-Exceptional-Talent-UK-visa/TechNationApplicationForm.pdf)
 
 I have omitted some information for privacy reasons. You can reach me out personally if you want to know any of this information in further details.
 Secondly, in the application, you need to provide a number of documents as per the [document checklist](https://technation.io/visa-tech-nation-visa-guide/#documents--evidence)
@@ -64,7 +64,7 @@ as can be seen in pages 15 and 16 of the above pdf. Below, I am providing the do
 <object data="{{ site.baseurl }}/data/2021-02-21-How-I-received-my-Tier-1-Exceptional-Talent-UK-visa/DocumentsChecklist.pdf" width="750px" height="750px">
     <embed src="{{ site.baseurl }}/data/2021-02-21-How-I-received-my-Tier-1-Exceptional-Talent-UK-visa/DocumentsChecklist.pdf">
 </object>
-Download this pdf [here](https://datashines.github.io/data/2021-02-21-How-I-received-my-Tier-1-Exceptional-Talent-UK-visa/DocumentsChecklist.pdf)
+_Download this pdf_ [here](https://datashines.github.io/data/2021-02-21-How-I-received-my-Tier-1-Exceptional-Talent-UK-visa/DocumentsChecklist.pdf)
 
 Hopefully this will help you in getting an idea of what kind of documentation and in what levels of detail is that documentation required in this application process.
 
@@ -76,14 +76,14 @@ Hopefully this will help you in getting an idea of what kind of documentation an
 <object data="{{ site.baseurl }}/data/2021-02-21-How-I-received-my-Tier-1-Exceptional-Talent-UK-visa/RejectionMail.pdf" width="750px" height="750px">
     <embed src="{{ site.baseurl }}/data/2021-02-21-How-I-received-my-Tier-1-Exceptional-Talent-UK-visa/RejectionMail.pdf">
 </object>
-Download this pdf [here](https://datashines.github.io/data/2021-02-21-How-I-received-my-Tier-1-Exceptional-Talent-UK-visa/RejectionMail.pdf)
+_Download this pdf_ [here](https://datashines.github.io/data/2021-02-21-How-I-received-my-Tier-1-Exceptional-Talent-UK-visa/RejectionMail.pdf)
 
 They also gave me a "Proforma" explaining why I was rejected:
 
 <object data="{{ site.baseurl }}/data/2021-02-21-How-I-received-my-Tier-1-Exceptional-Talent-UK-visa/RejectionProforma.pdf" width="750px" height="750px">
     <embed src="{{ site.baseurl }}/data/2021-02-21-How-I-received-my-Tier-1-Exceptional-Talent-UK-visa/RejectionProforma.pdf">
 </object>
-Download this pdf [here](https://datashines.github.io/data/2021-02-21-How-I-received-my-Tier-1-Exceptional-Talent-UK-visa/RejectionProforma.pdf)
+_Download this pdf_ [here](https://datashines.github.io/data/2021-02-21-How-I-received-my-Tier-1-Exceptional-Talent-UK-visa/RejectionProforma.pdf)
 
 Upon reading the explanation, I realised that I have indeed compressed all of my documentations in 1 or 2-pagers and that might be the
 reason they misunderstood it for me not providing the documentation in sufficient details. I did the compressing under a mistaken 
@@ -99,7 +99,7 @@ You can see my filled form below, which I emailed on 15th July, exactly 28 days 
 <object data="{{ site.baseurl }}/data/2021-02-21-How-I-received-my-Tier-1-Exceptional-Talent-UK-visa/EndorsementReview.pdf" width="750px" height="750px">
     <embed src="{{ site.baseurl }}/data/2021-02-21-How-I-received-my-Tier-1-Exceptional-Talent-UK-visa/EndorsementReview.pdf">
 </object>
-Download this pdf [here](https://datashines.github.io/data/2021-02-21-How-I-received-my-Tier-1-Exceptional-Talent-UK-visa/EndorsementReview.pdf)
+_Download this pdf_ [here](https://datashines.github.io/data/2021-02-21-How-I-received-my-Tier-1-Exceptional-Talent-UK-visa/EndorsementReview.pdf)
 
 As you can see, I addressed precisely the points of refusal outlined in the Proforma. Having little hopes of getting the decision turned around, I received the email
 from the Home Office stating that I have been granted the endorsement, as can be seen at the top of this blog.
