@@ -248,5 +248,5 @@ Here is a glimpse of the book:
   
 <object data="{{ site.baseurl }}/data/2021-01-14-Lessons-From-Writing-A-Deep-Learning-Book/B12158_Mastering PyTorch_eBook_15_pages.pdf" width="750px" height="750px">
     <embed src="{{ site.baseurl }}/data/2021-01-14-Lessons-From-Writing-A-Deep-Learning-Book/B12158_Mastering PyTorch_eBook_15_pages.pdf">
-    </embed>
 </object>
+Download this pdf [here](https://datashines.github.io/data/2021-01-14-Lessons-From-Writing-A-Deep-Learning-Book/B12158_Mastering PyTorch_eBook_15_pages.pdf)
