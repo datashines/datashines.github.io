@@ -48,6 +48,8 @@ questions straight-up from the mock tests. Just make sure you are consistently s
 point you'll be good to go. The test appointments can be busy, hence, make sure to book one well within time. In reality you'll most certainly
 not need 45 minutes to finish. It took less than 5 minutes in my case.
 
+{% include display_ad_horizontal_1.html %}
+
 ## English language requirement
 This is the second critical requirement for the ILR application. There are different ways of proving your English language ability. Two
 of the most popular routes are
