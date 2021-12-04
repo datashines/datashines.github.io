@@ -44,6 +44,18 @@ elaborately found on the UK Government website.
 To get the endorsement letter from Tech Nation, you need to make an application. 
 In the next and most important section, I will explain that process in detail.
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8352226907837680"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-8352226907837680"
+     data-ad-slot="5559476148"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Tech Nation application - deep dive
 
 Tech Nation website provides an extensive explanation of their application process [on their visa guide page](https://technation.io/visa-tech-nation-visa-guide).
