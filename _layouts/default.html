@@ -5,7 +5,12 @@
     <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
 
     {% include meta.html %}
-    {% include advertisements.html %}
+    {% if site.google_analytics %}
+        {% include analytics.html %}
+    {% endif %}
+    {% if site.google_ad_client %}
+        {% include advertisements.html %}
+    {% endif %}
     {% seo %}
 
     <!--[if lt IE 9]>
@@ -48,7 +53,5 @@
         </footer>
       </div>
     </div>
-
-    {% include analytics.html %}
   </body>
 </html>
