@@ -5,7 +5,7 @@ title: Serving Deep Learning Model Using JavaScript
 
 <html>
   <head>
-    <link rel="stylesheet" href="cifar_model_page_style.css" />
+    <link rel="stylesheet" href="{{ site.baseurl }}/data/2021-12-05-Serving-Deep-Learning-Model-Using-JavaScript/cifar_model_page_style.css" />
   </head>
 
   <body>
@@ -93,6 +93,6 @@ title: Serving Deep Learning Model Using JavaScript
     </div>
 
     <script src="https://cdn.jsdelivr.net/npm/onnxjs/dist/onnx.min.js"></script>
-    <script src="script.js"></script>
+    <script src="{{ site.baseurl }}/data/2021-12-05-Serving-Deep-Learning-Model-Using-JavaScript/script.js"></script>
   </body>
 </html>
