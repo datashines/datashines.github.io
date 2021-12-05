@@ -3,6 +3,6 @@ layout: post
 title: Serving Deep Learning Model Using JavaScript
 ---
 
-{% include index.html %}
+{% include data/2021-12-05-Serving-Deep-Learning-Model-Using-JavaScript/index.html %}
 
 test
