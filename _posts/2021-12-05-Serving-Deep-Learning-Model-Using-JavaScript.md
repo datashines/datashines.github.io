@@ -85,6 +85,6 @@ CIFAR10 Dataset + CNN + PyTorch + ONNX + HTML/CSS/JavaScript
       </div>
     </div>
     <script src="https://cdn.jsdelivr.net/npm/onnxjs/dist/onnx.min.js"></script>
-    <script src="{{ site.baseurl }}/data/2021-12-05-Serving-Deep-Learning-Model-Using-JavaScript/script.js"></script>
+    <script src="https://datashines.github.io/data/2021-12-05-Serving-Deep-Learning-Model-Using-JavaScript/script.js"></script>
   </body>
 </html>
