@@ -3,6 +3,6 @@ layout: post
 title: Serving Deep Learning Model Using JavaScript
 ---
 
-{% include data/2021-12-05-Serving-Deep-Learning-Model-Using-JavaScript/index.html %}
+{% include https://datashines.github.io/data/2021-12-05-Serving-Deep-Learning-Model-Using-JavaScript/cifar_model.html %}
 
 test
