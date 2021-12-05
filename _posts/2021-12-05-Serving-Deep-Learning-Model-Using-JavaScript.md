@@ -2,6 +2,9 @@
 layout: post
 title: Serving Deep Learning Model Using JavaScript
 ---
+
+CIFAR 10 model, try it out now!
+
 <html>
   <head>
     <link rel="stylesheet" href="{{ site.baseurl }}/data/2021-12-05-Serving-Deep-Learning-Model-Using-JavaScript/cifar_model_page_style.css" />
