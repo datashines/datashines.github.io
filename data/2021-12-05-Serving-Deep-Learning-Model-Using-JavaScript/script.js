@@ -132,7 +132,7 @@ function bodyMouseUp() {
   isMouseDown = false;
 }
 
-function bodyTouchStop() {
+function bodyTouchEnd() {
   isTouchStart = false;
 }
 
@@ -153,6 +153,7 @@ loadingModelPromise.then(() => {
   canvas.addEventListener("mousemove", canvasMouseMove);
   canvas.addEventListener("touchmove", canvasTouchMove);
   document.body.addEventListener("mouseup", bodyMouseUp);
+  document.body.addEventListener("touchend", bodyTouchEnd);
   document.body.addEventListener("mouseout", bodyMouseOut);
   clearButton.addEventListener("mousedown", clearCanvas);
   clearButton.addEventListener("touchstart", clearCanvas);
