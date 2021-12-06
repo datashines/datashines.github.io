@@ -149,14 +149,14 @@ function bodyMouseOut(event) {
 
 loadingModelPromise.then(() => {
   canvas.addEventListener("mousedown", canvasMouseDown);
-  canvas.addEventListener("touchstart", canvasTouchStart);
+  canvas.addEventListener("ontouchstart", canvasTouchStart);
   canvas.addEventListener("mousemove", canvasMouseMove);
-  canvas.addEventListener("touchmove", canvasTouchMove);
+  canvas.addEventListener("ontouchmove", canvasTouchMove);
   document.body.addEventListener("mouseup", bodyMouseUp);
-  document.body.addEventListener("touchend", bodyTouchEnd);
+  document.body.addEventListener("ontouchend", bodyTouchEnd);
   document.body.addEventListener("mouseout", bodyMouseOut);
   clearButton.addEventListener("mousedown", clearCanvas);
-  clearButton.addEventListener("touchstart", clearCanvas);
+  clearButton.addEventListener("ontouchstart", clearCanvas);
 
   ctx.clearRect(0, 0, CANVAS_SIZE, CANVAS_SIZE);
   ctx.fillText("Draw here!", CANVAS_SIZE / 2, CANVAS_SIZE / 2);
