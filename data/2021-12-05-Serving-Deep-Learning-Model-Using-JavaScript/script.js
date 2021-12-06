@@ -115,6 +115,7 @@ function bodyMouseOut(event) {
 loadingModelPromise.then(() => {
   canvas.addEventListener("mousedown", canvasMouseDown);
   canvas.addEventListener("mousemove", canvasMouseMove);
+  canvas.addEventListener("touchmove", canvasMouseMove);
   document.body.addEventListener("mouseup", bodyMouseUp);
   document.body.addEventListener("mouseout", bodyMouseOut);
   clearButton.addEventListener("mousedown", clearCanvas);
