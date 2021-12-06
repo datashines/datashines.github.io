@@ -6,7 +6,7 @@ const ctx = canvas.getContext("2d");
 const clearButton = document.getElementById("clear-button");
 
 let isMouseDown = false;
-let isTouchStart = false:
+let isTouchStart = false;
 let hasIntroText = true;
 let lastX = 0;
 let lastY = 0;
