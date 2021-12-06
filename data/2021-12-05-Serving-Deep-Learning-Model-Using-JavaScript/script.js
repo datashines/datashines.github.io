@@ -6,6 +6,7 @@ const ctx = canvas.getContext("2d");
 const clearButton = document.getElementById("clear-button");
 
 let isMouseDown = false;
+let isTouchStart = false:
 let hasIntroText = true;
 let lastX = 0;
 let lastY = 0;
@@ -87,6 +88,26 @@ function canvasMouseDown(event) {
   canvasMouseMove(event);
 }
 
+function canvasTouchStart(event) {
+  isTouchStart = true;
+  if (hasIntroText) {
+    clearCanvas();
+    hasIntroText = false;
+  }
+  const x = event.offsetX / CANVAS_SCALE;
+  const y = event.offsetY / CANVAS_SCALE;
+
+  // To draw a dot on the mouse down event, we set laxtX and lastY to be
+  // slightly offset from x and y, and then we call `canvasMouseMove(event)`,
+  // which draws a line from (laxtX, lastY) to (x, y) that shows up as a
+  // dot because the difference between those points is so small. However,
+  // if the points were the same, nothing would be drawn, which is why the
+  // 0.001 offset is added.
+  lastX = x + 0.001;
+  lastY = y + 0.001;
+  canvasTouchMove(event);
+}
+
 function canvasMouseMove(event) {
   const x = event.offsetX / CANVAS_SCALE;
   const y = event.offsetY / CANVAS_SCALE;
@@ -97,8 +118,22 @@ function canvasMouseMove(event) {
   lastY = y;
 }
 
+function canvasTouchMove(event) {
+  const x = event.offsetX / CANVAS_SCALE;
+  const y = event.offsetY / CANVAS_SCALE;
+  if (isTouchStart) {
+    drawLine(lastX, lastY, x, y);
+  }
+  lastX = x;
+  lastY = y;
+}
+
 function bodyMouseUp() {
   isMouseDown = false;
+}
+
+function bodyTouchStop() {
+  isTouchStart = false;
 }
 
 function bodyMouseOut(event) {
@@ -114,11 +149,13 @@ function bodyMouseOut(event) {
 
 loadingModelPromise.then(() => {
   canvas.addEventListener("mousedown", canvasMouseDown);
+  canvas.addEventListener("touchstart", canvasTouchStart);
   canvas.addEventListener("mousemove", canvasMouseMove);
-  canvas.addEventListener("touchmove", canvasMouseMove);
+  canvas.addEventListener("touchmove", canvasTouchMove);
   document.body.addEventListener("mouseup", bodyMouseUp);
   document.body.addEventListener("mouseout", bodyMouseOut);
   clearButton.addEventListener("mousedown", clearCanvas);
+  clearButton.addEventListener("touchstart", clearCanvas);
 
   ctx.clearRect(0, 0, CANVAS_SIZE, CANVAS_SIZE);
   ctx.fillText("Draw here!", CANVAS_SIZE / 2, CANVAS_SIZE / 2);
