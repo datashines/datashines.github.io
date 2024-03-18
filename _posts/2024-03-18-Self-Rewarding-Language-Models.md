@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Self Rewarding Language Models - Paper Summary
+title: Self Rewarding Language Models [Paper Summary]
 ---
 
 [Original paper link](https://arxiv.org/pdf/2401.10020.pdf)
