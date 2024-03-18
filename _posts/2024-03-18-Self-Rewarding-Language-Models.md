@@ -35,7 +35,7 @@ At step 0, a small amount of human-labelled data is used for initial guidance (t
 
 This ranking dataset is converted into the following format : `<LLM-as-aJudge-prompt, output_score(from 1 to 5)>`. The input prompts from the ranking dataset are converted to LLM-as-a-Judge prompts as per the template shown in figure 2. These prompts are then run through the SFT baseline model to produce an output score between 1 and 5. The authors retain those examples from the dataset where the output from LLM aligns/agrees with the human rankings. Of the 2306, they use 1175 formatted ranking examples to train (fine-tune) the SFT baseline model, and 531 examples for validation/evaluation. They call this fine-tuned model `M1`.
 
-### Using LLM-as-a-Judge and DPO train LLMs using LLMs
+### Training LLMs using LLMs
 
 `M1` onwards, they stop using any human-labelled data. They do the following to generate training data instead. They use Llama 2-Chat 70B model to generate more prompts using few-shots prompting (8-shots) on the original 3200 prompts available from the IFT dataset. They run these generated prompts through the `M1` model to generate 4 different responses using top-p sampling with temperature `T = 0.7` and `p = 0.9`. Each of these 4 candidate responses along with the input prompt are formatted as 4 LLM-as-a-Judge prompts as per figure 2. The 4 formatted prompts are then fed to the `M1` model to produce scores between 1 and 5. Each prompt is ran 3 times, producing 3 scores and an average score is calculated as final. 
 
