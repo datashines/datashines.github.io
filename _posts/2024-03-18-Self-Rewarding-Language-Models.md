@@ -29,7 +29,7 @@ This paper overcomes these limitations by presenting a self-learning mechanism, 
 
 The training process is iterative. They use the pre-trained Llama 2 70B as the base model (they call it `M0`). 
 
-### Using manual labels to fine-tune base model
+### Using manual labels to fine-tune base LLM
 
 At step 0, a small amount of human-labelled data is used for initial guidance (towards instruction-following). They first fine-tune the base model (`M0`) on 3200 human-authored instruction-following examples (`<prompt, response>` pairs) from the _Open Assistant_ dataset (they call it the IFT - Instruction Fine-Tuning dataset), resulting in the SFT-baseline model. Next, they use 2306 ranking examples from the _Open Assistant_ dataset containing human-ranked responses for various prompts (they call it the EFT - Evaluation Fine-Tuning dataset). 
 
