@@ -28,7 +28,7 @@ There are quite a few steps within the naturalisation process. To kick-off the p
 
 I came to the UK in Sep 2018 and received my ILR in Sep 2021, and hence satsified both the above criteria by Oct 2023. That's when I applied. The following are the high level steps to perform in order to apply for naturalisation:
 - apply for naturalisation [online](https://visas-immigration.service.gov.uk/product/nationality-an)
-- get declarations from two eligible* referees*
+- get declarations from two eligible* referees
 - upload documents on [UKVCAS](https://www.ukvcas.co.uk/home-internal) website and book biometrics appointment
 - go to the biometrics appointment
 - **wait for 3 months\*\* for approval of citizenship application**
