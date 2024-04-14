@@ -140,7 +140,7 @@ Below is my email exchange with the council:
 </object>
 _Download this pdf_ [here](https://datashines.github.io/data/2024-04-14-Becoming-a-Birtish-Citizen/new_application_for_private_citizenship_ceremonies.pdf)
 
-Note that **you must attend a citizenship ceremony within 3 months of your application being approved**
+Note that **you must attend a citizenship ceremony within 3 months of your application being approved**.
 
 There are two kinds of ceremonies:
 
