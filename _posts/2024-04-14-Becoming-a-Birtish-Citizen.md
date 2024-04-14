@@ -95,7 +95,7 @@ To upload, you need to login to the UKVCAS website. Once you do, you receive a w
 </object>
 _Download this pdf_ [here](https://datashines.github.io/data/2024-04-14-Becoming-a-Birtish-Citizen/welcome_to_UK_visa_and_citizenship_application_services.pdf)
 
-Once you upload your documents inside the UKVCAS portal, you can book an appointment for biometrics by making a payment for an available slot. Once you do so, you should receive an email like the following:
+Once you upload your documents inside the UKVCAS portal, you can book an appointment for biometrics by making a payment for an available slot (139£ in my case). Once you do so, you should receive an email like the following:
 
 <object data="{{ site.baseurl }}/data/2024-04-14-Becoming-a-Birtish-Citizen/UKVCAS_appointment_confirmation_and_VAT_invoice.pdf" width="750px" height="750px">
     <embed src="{{ site.baseurl }}/data/2024-04-14-Becoming-a-Birtish-Citizen/UKVCAS_appointment_confirmation_and_VAT_invoice.pdf">
