@@ -181,7 +181,7 @@ As indicated in the email, you then need to ask someone to confirm your identity
 ### Getting someone to confirm your identity
 
 This someone needs to be eligible and there is a similar eligibility criteria as for the referee during the naturalisation application.<br>
-Hence, I asked one of my referees for this, and they kindly agreed to.<br>
+Hence, I asked one of my referees for this, and they kindly agreed to help (again).<br>
 Once you have that someone, you need to login to your passport application and provide their email id.<br>
 They will then be reached to provide some of their personal details.<br>
 Once they've confirmed your identity, you should receive an email similar to the following:
