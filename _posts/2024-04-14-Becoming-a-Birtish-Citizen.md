@@ -30,7 +30,7 @@ I came to the UK in Sep 2018 and received my ILR in Sep 2021, and hence satsifie
 - apply for naturalisation [online](https://visas-immigration.service.gov.uk/product/nationality-an)
 - get declarations from two eligible* referees*
 - upload documents on [UKVCAS](https://www.ukvcas.co.uk/home-internal) website and book biometrics appointment
-- go to the biometrics appointment, submit your current passport (plus any other original docs as applicable)
+- go to the biometrics appointment
 - make sure you get UKVCAS's acknowledgement of sending your docs to [UKVI](https://www.gov.uk/government/organisations/uk-visas-and-immigration) and then **WAIT for 3 months\*\* for news**
 - you receive approval of citizenship application; book citizenship ceremony with local council (borough) after 1-2 weeks***
 - go to your ceremony with approval email, get your naturalisation certificate
