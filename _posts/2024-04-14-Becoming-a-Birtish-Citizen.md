@@ -102,7 +102,7 @@ Once you upload your documents inside the UKVCAS portal, you can book an appoint
 </object>
 _Download this pdf_ [here](https://datashines.github.io/data/2024-04-14-Becoming-a-Birtish-Citizen/UKVCAS_appointment_confirmation_and_VAT_invoice.pdf)
 
-Next step is to go for the biometrics, with your current passport.
+Next step is to physically go for the biometrics on the scheduled date.
 
 ### Biometrics and UKVCAS confirmation
 
