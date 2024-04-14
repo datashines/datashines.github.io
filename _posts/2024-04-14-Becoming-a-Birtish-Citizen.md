@@ -55,7 +55,7 @@ You can complete this application in parts, and save your progress as you go. Yo
 
 ![]({{ site.baseurl }}/data/2024-04-14-Becoming-a-Birtish-Citizen/naturalisation_application_saved.png)
 
-Once you fill in all the required fields, you may finish the application by making a payment. I dodged the recent hikes in immigration fees in the UK, and had to pay 1330£. Once you pay, you should receive a confirmation email: 
+Once you fill in all the required fields, you may finish the application by making a payment. I was lucky to apply before the recent hikes in immigration fees in the UK, and had to pay 1330£. Once you pay, you should receive a confirmation email: 
 
 ![]({{ site.baseurl }}/data/2024-04-14-Becoming-a-Birtish-Citizen/naturalisation_payment.png)
 
