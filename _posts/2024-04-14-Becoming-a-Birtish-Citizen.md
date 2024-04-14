@@ -202,7 +202,6 @@ Once you've sent the documents by post, you should receive such an email in a fe
 </object>
 _Download this pdf_ [here](https://datashines.github.io/data/2024-04-14-Becoming-a-Birtish-Citizen/documents_received.pdf)
 
-You should nonetheless use a tracking service when sending documents by post so you can track yourself in any case.<br>
 At this point, you just need to wait to hear any further updates from [HMPO](https://www.gov.uk/government/organisations/hm-passport-office).
 
 ### Successful application, receiving passport
