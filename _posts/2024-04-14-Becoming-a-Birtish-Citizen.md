@@ -157,10 +157,76 @@ Details of the process are listed [here](https://www.royalgreenwich.gov.uk/info/
 
 Once you have the naturalisation certificate, you may apply for your British Passport.
 
-
 ## Passport 
 
+Getting a passport can be broken down into the following steps:
+- online application and payment
+- getting someone to confirm your identity
+- sending naturalisation certificate and passport by post
+- receiving application approval and the passport
+
+### Online passport application
+
+You can apply for a passport [online](https://www.gov.uk/apply-renew-passport).<br>
+Unlike the naturalisation application process, the passport application process is much more straightforward.<br>
+Once you complete the application and make a payment of 82.50£, you shall receive an email like the following:
+
+<object data="{{ site.baseurl }}/data/2024-04-14-Becoming-a-Birtish-Citizen/passport_application_received.pdf" width="750px" height="750px">
+    <embed src="{{ site.baseurl }}/data/2024-04-14-Becoming-a-Birtish-Citizen/passport_application_received.pdf">
+</object>
+_Download this pdf_ [here](https://datashines.github.io/data/2024-04-14-Becoming-a-Birtish-Citizen/passport_application_received.pdf)
+
+As indicated in the email, you then need to ask someone to confirm your identity.<br>
+
+### Getting someone to confirm your identity
+
+This someone needs to be eligible and there is a similar eligibility criteria as for the referee during the naturalisation application.<br>
+Hence, I asked one of my referees for this, and they kindly agreed to.<br>
+Once you have that someone, you need to login to your passport application and provide their email id.<br>
+They will then be reached to provide some of their personal details.<br>
+Once they've confirmed your identity, you should receive an email similar to the following:
+
+<object data="{{ site.baseurl }}/data/2024-04-14-Becoming-a-Birtish-Citizen/send_your_documents.pdf" width="750px" height="750px">
+    <embed src="{{ site.baseurl }}/data/2024-04-14-Becoming-a-Birtish-Citizen/send_your_documents.pdf">
+</object>
+_Download this pdf_ [here](https://datashines.github.io/data/2024-04-14-Becoming-a-Birtish-Citizen/send_your_documents.pdf)
+
+As the email says, you need to send the required documents to the indicated address (by post) - current passport and naturalisation certificate in my case.
+
+### Sending documents by post
+
+Once you've sent the documents by post, you should receive such an email in a few days:
+
+<object data="{{ site.baseurl }}/data/2024-04-14-Becoming-a-Birtish-Citizen/documents_received.pdf" width="750px" height="750px">
+    <embed src="{{ site.baseurl }}/data/2024-04-14-Becoming-a-Birtish-Citizen/documents_received.pdf">
+</object>
+_Download this pdf_ [here](https://datashines.github.io/data/2024-04-14-Becoming-a-Birtish-Citizen/documents_received.pdf)
+
+You should nonetheless use a tracking service when sending documents by post so you can track yourself in any case.<br>
+At this point, you just need to wait to hear any further updates from [HMPO](https://www.gov.uk/government/organisations/hm-passport-office).
+
+### Successful application, receiving passport
+
+If everything goes well, you should get such further update from HMPO:
+
+<object data="{{ site.baseurl }}/data/2024-04-14-Becoming-a-Birtish-Citizen/passport_application_approved.pdf" width="750px" height="750px">
+    <embed src="{{ site.baseurl }}/data/2024-04-14-Becoming-a-Birtish-Citizen/passport_application_approved.pdf">
+</object>
+_Download this pdf_ [here](https://datashines.github.io/data/2024-04-14-Becoming-a-Birtish-Citizen/passport_application_approved.pdf)
+
+You're all set to receive your passport in a few days! HMPO also sends an email reminding you to sign on your passport with pen:
+
+<object data="{{ site.baseurl }}/data/2024-04-14-Becoming-a-Birtish-Citizen/sign_your_passport.pdf" width="750px" height="750px">
+    <embed src="{{ site.baseurl }}/data/2024-04-14-Becoming-a-Birtish-Citizen/sign_your_passport.pdf">
+</object>
+_Download this pdf_ [here](https://datashines.github.io/data/2024-04-14-Becoming-a-Birtish-Citizen/sign_your_passport.pdf)
+
+In a few days following the receipt of your passport, you should also receive the documents you sent by post in a separate envelope (naturalisation certificate and current passport).
+
+## Closing
+
+This was my journey as an Indian passport holder to get the British citizenship and passport. India doesn't allow dual citizenship and hence I had to give up my Indian citizenship.
+If your country allows dual citizenship, the process might slightly differ, that too in the passport application part, not so much in the naturalisation application.
 
 
-
-I hope this was useful. Thanks for reading !!
+I hope this was useful. Thanks for reading. Good luck with your application !!
