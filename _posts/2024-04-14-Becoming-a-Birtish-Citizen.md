@@ -3,7 +3,7 @@ layout: post
 title: Becoming a British Citizen
 ---
 
-This post is to help anyone who has an ILR (PR) in the UK, is yet to apply for a British citizenship.<br>
+This post is to help anyone who has an ILR (PR) in the UK, and is yet to apply for a British citizenship.<br>
 I will share my timeline and documents/snapshots along the way to help you understand the process.<br>
 
 If you are yet to apply for an ILR, please check out my post on [getting an ILR in the UK](https://datashines.github.io/Getting-a-Permanent-Residence-(PR)-in-the-UK/).<br>
