@@ -206,7 +206,7 @@ At this point, you just need to wait to hear any further updates from [HMPO](htt
 
 ### Successful application, receiving passport
 
-If everything goes well, you should get such further update from HMPO:
+If everything goes well, you should get such an email from HMPO:
 
 <object data="{{ site.baseurl }}/data/2024-04-14-Becoming-a-Birtish-Citizen/passport_application_approved.pdf" width="750px" height="750px">
     <embed src="{{ site.baseurl }}/data/2024-04-14-Becoming-a-Birtish-Citizen/passport_application_approved.pdf">
