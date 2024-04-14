@@ -31,9 +31,9 @@ I came to the UK in Sep 2018 and received my ILR in Sep 2021, and hence satsifie
 - get declarations from two eligible* referees*
 - upload documents on [UKVCAS](https://www.ukvcas.co.uk/home-internal) website and book biometrics appointment
 - go to the biometrics appointment
-- **wait for 3 months\*\* for news**
-- you receive approval of citizenship application; book citizenship ceremony with local council (borough) after 1-2 weeks***
-- go to your ceremony with approval email, get your naturalisation certificate
+- **wait for 3 months\*\* for approval of citizenship application**
+- book citizenship ceremony with local council (borough) after 1-2 weeks***
+- go to your ceremony, get your naturalisation certificate
 
 \* read more on referee eligibility rules [here](https://www.edgewaterlegal.com/insight/referees-in-british-citizenship-applications-why-who-what-where-when-and-how/)<br>
 \** duration varies but various online immigration boards will tell you the wait time is roughly between 2-4 months, potentially upto 6 months<br>
