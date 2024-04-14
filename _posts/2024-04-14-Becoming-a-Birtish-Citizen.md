@@ -224,7 +224,7 @@ In a few days following the receipt of your passport, you should also receive th
 
 ## Closing
 
-This was my journey as an Indian passport holder to get the British citizenship and passport. India doesn't allow dual citizenship and hence I had to give up my Indian citizenship.
+This was my journey as an Indian passport holder to get the British citizenship and passport. India don't allow dual citizenship and hence I had to give up my Indian citizenship.
 If your country allows dual citizenship, the process might slightly differ, that too in the passport application part, not so much in the naturalisation application.
 
 
