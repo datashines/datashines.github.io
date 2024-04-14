@@ -144,8 +144,8 @@ Note that **you must attend a citizenship ceremony within 3 months of your appli
 
 There are two kinds of ceremonies:
 
-- Public: free of cost, but availability is sparse, you might get a date 1or 2 months later, and this ceremony takes place for good 2-4 hours.
-- Private: costs 165£ in Greenwich and 100+ in most boroughs, dates available in a week's time, and ceremony takes 5-10 minutes.
+- Public: free of cost, but availability is sparse, you might get a date 1or 2 months later, and this ceremony takes place for for good 2-4 hours, and it covers a batch of people. 
+- Private: costs 165£ in Greenwich and 100+ in most boroughs, dates available in a week's time, ceremony is only for you (and 2 optional guests of yours), and the whole thing takes 5-10 minutes. 
 
 I chose a private ceremony as public ceremonies weren't available until 2 months later, and would take half of a work day.
 
