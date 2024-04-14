@@ -76,7 +76,7 @@ Following is the document you need to get signed by 2 different referees:
 _Download this pdf_ [here](https://datashines.github.io/data/2024-04-14-Becoming-a-Birtish-Citizen/1st_Referee_Declaration_MN1.pdf)
 
 I was lucky to have 2 British friends of Indian origin who are Directors of Limited Company - ticking all boxes to satisfy the [referee eligibility criteria](https://www.edgewaterlegal.com/insight/referees-in-british-citizenship-applications-why-who-what-where-when-and-how/).
-Make sure to have 2 such people in your mind while you're about to or before you apply for naturalisation, as this becomes a bottleneck for many.
+Make sure to have 2 such people in your mind while/before applying for naturalisation, as this becomes a bottleneck for many.
 
 ### Uploading documents via UKVCAS
 After you complete your naturalisation application on the UKVI website, you're redirected (with login credentials) to the UKVCAS website to upload documents and to schedule biometric appointment. 
