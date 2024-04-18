@@ -13,8 +13,9 @@ So, firstly, here is my timeline from ever arriving in the UK for the first time
 
 ![]({{ site.baseurl }}/data/2024-04-14-Becoming-a-Birtish-Citizen/timeline.png)
 
-There are two phases in this whole process
+There are three phases in this whole process
 - naturalisation
+- return BRP (ILR)
 - passport
 
 Naturalisation is the chunkier part, and let me break that process down next:
@@ -155,7 +156,12 @@ I was accompanied by an official in the Town Hall into a ceremony hall, where I 
 
 Details of the process are listed [here](https://www.royalgreenwich.gov.uk/info/200146/citizenship/607/citizenship_ceremonies/2)
 
-Once you have the naturalisation certificate, you may apply for your British Passport.
+## Return BRP (ILR)
+
+After receiving the naturalisation certificate, you must return your BRP (ILR) card within 5 working days. You need to cut your ILR into 4 pieces and send in an envelope with a paper note mentioning your name, date of birth, and ILR number.
+Details [here](https://www.gov.uk/apply-citizenship-indefinite-leave-to-remain/after-you-get-your-certificate).
+
+Once you have received the naturalisation certificate and returned the ILR, you may apply for your British Passport.
 
 ## Passport 
 
